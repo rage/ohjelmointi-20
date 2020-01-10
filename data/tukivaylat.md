@@ -7,7 +7,7 @@ information_page: true
 
 Kurssilla on vertaistukeen perustuva keskustelukanava, jonka lisäksi tammikuun puolesta välistä lähtien kaikilla kurssilaisilla on mahdollisuus ohjaukseen Helsingin yliopiston Kumpulan kampuksella.
 
-## Keskustelukanava
+## Keskustelukanavat
 
 Kurssilla on käytössä Telegram-keskusteluhuone. Suosittelemme, että käytät tukikanavaa joko Telegramin selaimessa toimivalla versiolla tai Telegrammin työpöytäohjelmalla.
 
@@ -15,7 +15,7 @@ Pääset kanavalle tästä linkistä: [https://t.me/ohjelmointi20](https://t.me/
 
 Kanavan osallistujat ovat kanssaopiskelijoita sekä vapaaehtoisia ohjaajia. Kanavan toiminta perustuu vapaaehtoisuuteen. Autathan muita myös vastavuoroisesti.
 
-Jos kysyt kanavalta apua ohjelmointitehtävään, voit liittää kysymykseesi myös ohjelmasi lähdekoodin. Valitse Netbeanssista "`TMC`" -> "`Send code to TMC Pastebin`" ja valitse avautuvasta ikkunasta "`Send`". Tämän jälkeen saat linkin koodiisi, jonka voit jakaa keskustelukanavalla apupyynnön yhteydessä.
+Jos kysyt kanavalta apua ohjelmointitehtävään, voit liittää kysymykseesi myös ohjelmasi lähdekoodin. Valitse NetBeanssin yläpalkista `TMC` &rarr; `Send code to TMC Pastebin` ja valitse avautuvasta ikkunasta `Send`. Tämän jälkeen saat linkin koodiisi, jonka voit jakaa keskustelukanavalla apupyynnön yhteydessä.
 
 Kurssilla on myös olemassa off topic -kanava keskusteluille, jotka eivät suoraan liity kurssiin: [https://t.me/ohjelmointi20_ot](https://t.me/ohjelmointi20_ot).
 
@@ -29,12 +29,12 @@ Pajaa pidetään luokassa **BK107** aivan Exactumin UniCafen vieressä. Exactum-
 
 Alla olevaan taulukkoon on ruksattu kevään paja-ajat. Ajat saattavat muuttua kurssin edetessä joten tarkistathan paja-ajat aina ennen kuin tulet pajaan.
 
-|        | MA | TI | KE | TO | PE |
-|--------|----|----|----|----|----|
-| 10-12  | X  |    |    |    | X  |
-| 12-14  | X  | X  | X  | X  | X  |
-| 14-16  | X  | X  | X  | X  | X  |
-| 16-18  | X  |    | X  | X  |    |
+|       | MA | TI | KE | TO | PE |
+|:-----:|:--:|:--:|:--:|:--:|:--:|
+| 10-12 | X  |    |    |    | X  |
+| 12-14 | X  | X  | X  | X  | X  |
+| 14-16 | X  | X  | X  | X  | X  |
+| 16-18 | X  |    | X  | X  |    |
 
 <!--
 ## Moodle-foorumi
