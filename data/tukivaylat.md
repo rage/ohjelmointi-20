@@ -25,12 +25,14 @@ Kurssilla on mahdollisuus saada hyvää ohjelmointiseuraa sekä saada apua teht�
 
 Katso Exactum-rakennuksen tarkempi sijainti [täältä](https://www.google.com/maps?hl=en&q=Exactum,+Kumpula+Campus,+Pietari+Kalmin+katu+5,+00560+Helsinki).
 
-Joulukuun 2019 pajaohjausajat (luokka BK107):
+Pajaa pidetään luokassa **BK107** aivan exactumin unicafen vieressä. Alla olevaan taulukkoon on ruksattu kevään paja-ajat. Ajat saattavat muuttua kurssin edetessä joten tarkistathan paja-ajat aina ennen kuin tulet pajaan.
 
-- Ti 17.12.2019 12-18
-- Ke 18.12.2019 12-16
-
-Tämän jälkeen pajaohjausta tulee olemaan Tammikuun puolestävälistä lähtien.
+|        | MA | TI | KE | TO | PE |
+|--------|----|:--:|----|----|----|
+| 10-12  |  X |    |    |    | X  |
+| 12-14  | X  | X  | X  | X  | X  |
+|  14-16 | X  | X  | X  | X  | X  |
+| 16-18  | X  |    | X  | X  |    |
 
 <!--
 
