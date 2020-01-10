@@ -744,10 +744,10 @@ Seuraavassa yhdistetään `&&`:lla eli ja-operaatiolla kaksi yksittäistä ehtoa
 System.out.println("Onkohan luku väliltä 5-10: ");
 int luku = 7;
 
-if (luku >= 4 && luku <= 10) {
+if (luku >= 5 && luku <= 10) {
     System.out.println("On! :)");
 } else {
-    System.out.println("Ei ollut :(")
+    System.out.println("Ei ollut :(");
 }
 ```
 
@@ -767,7 +767,7 @@ int luku = 145;
 if (luku < 0 || luku > 100) {
     System.out.println("On! :)");
 } else {
-    System.out.println("Ei ollut :(")
+    System.out.println("Ei ollut :(");
 }
 ```
 
@@ -787,7 +787,7 @@ int luku = 7;
 if (!(luku > 4)) {
     System.out.println("Luku ei ole suurempi kuin 4.");
 } else {
-    System.out.println("Luku on suurempi tai yhtäsuuri kuin 4.")
+    System.out.println("Luku on suurempi tai yhtäsuuri kuin 4.");
 }
 ```
 
