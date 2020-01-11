@@ -5,7 +5,7 @@ hidden: true
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
- 
+
 - Tutustut termiin tahaton sokeus ja tiedät, että opit tunnistamaan oleellisia (ja epäoleellisia) asioita harjoittelemalla.
 - Tutustut lähdekoodin kommentointitapoihin ja huomaat miten tärkeää muuttujien nimentä on koodin ymmärrettävyydelle.
 - Tunnet käsitteen print-debuggaus ja tiedät miten ohjelmakoodissa olevia virheitä voi etsiä tulostuslauseiden avulla.
