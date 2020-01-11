@@ -1,5 +1,4 @@
 import { fetchProgrammingProgress, getCachedUserDetails } from "./moocfi"
-import { fetchCrowdsorcererProgress } from "./crowdsorcerer"
 import { zip } from "../util/arrays"
 import { fetchQuizProgress } from "./quiznator"
 import { fetchQuizzesProgress } from "./quizzes"
@@ -16,11 +15,10 @@ const introductionCourseGroups = [
 
 export async function fetchProgress() {
   // await fetchQuizzesProgress()
-  const serviceIdentifiers = ["Ohjelmointitehtävät", "Kyselyt", "Crowdsorcerer"]
+  const serviceIdentifiers = ["Ohjelmointitehtävät", "Kyselyt"]
   const progressesCollection = await Promise.all([
     fetchProgrammingProgress(),
     fetchQuizzesProgress(),
-    fetchCrowdsorcererProgress(),
   ])
   const userDetails = await getCachedUserDetails()
   const currentCourseVariant = userDetails?.extra_fields?.course_variant
