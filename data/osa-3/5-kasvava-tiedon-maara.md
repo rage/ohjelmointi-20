@@ -1,5 +1,5 @@
 ---
-path: '/osa-3/6-kasvava-tiedon-maara'
+path: '/osa-3/5-kasvava-tiedon-maara'
 title: 'Kasvava tiedon määrä'
 hidden: true
 ---

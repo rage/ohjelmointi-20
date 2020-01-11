@@ -1,5 +1,5 @@
 ---
-path: '/osa-3/4-taulukot'
+path: '/osa-3/3-taulukot'
 title: 'Taulukot'
 hidden: true
 ---
@@ -95,7 +95,7 @@ int luku = luvut[indeksi];
 System.out.println(luku);
 ```
 
-<quiz id="5c385a3b244fe21455cb2764"></quiz>
+<quiz id="793bd410-95be-5706-a79f-69f20aa59783"></quiz>
 
 <programming-exercise name='Alkioiden arvojen vaihtaminen' tmcname='osa03-Osa03_18.AlkioidenArvojenVaihtaminen'>
 

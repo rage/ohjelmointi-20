@@ -1,5 +1,5 @@
 ---
-path: '/osa-3/5-merkkijonot'
+path: '/osa-3/4-merkkijonot'
 title: 'Merkkijonojen käsittely'
 hidden: true
 ---
