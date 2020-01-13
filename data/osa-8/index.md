@@ -40,7 +40,7 @@ Kurssimateriaalin kahdeksannessa osassa tutustutaan hajautustaulun käyttöön. 
 
 <text-box variant="hint" name="Jos tulet kurssille tässä vaiheessa mukaan">
 
-Kurssin ohjelmointitehtäviä tehdään Test My Code (TMC) -järjestelmässä. Ohjeita TMC-järjestelmän käyttöönottoon löytyy täältä: https://materiaalit.github.io/tmc-asennus/netbeans/.
+Kurssin ohjelmointitehtäviä tehdään Test My Code (TMC) -järjestelmässä. Ohjeita TMC-järjestelmän käyttöönottoon löytyy täältä: [https://www.mooc.fi/fi/installation/netbeans](https://www.mooc.fi/fi/installation/netbeans).
 
 Mikäli et ole osallistunut kurssiin ensimmäisestä osasta lähtien, vaan tulet mukaan vain Ohjelmoinnin jatkokurssia vastaavalle osalle, valitse TMC:n Settings-valikosta kurssi "Ohjelmoinnin MOOC 2020 - Aloitan osasta 8" tai "Ohjelmoinnin MOOC 2020 - Aloitan osasta 8 (aikatauluton)", riippuen siitä haluatko tehdä kurssin aikatauluttomana. Lisäksi valitse tämän materiaalin asetuksien kohdan "Minkä kurssin version pisteet ja kolikot haluat nähdä?" vaihtoehto "Aloitan kurssin osasta 8". Muista myös kerrata materiaalin osat 1-7.
 
