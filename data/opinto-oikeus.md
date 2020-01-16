@@ -40,6 +40,22 @@ Näyttökoetta varten järjestetään useita koetilaisuuksia. Opinto-oikeutta ha
 
 Kaikki koetilaisuudet järjestetään Helsingin yliopiston Kumpulan kampuksella. Koesali ja reittiohjeet kampukselle kerrotaan näyttökoekutsussa.
 
+## Edellisten vuosien näyttökoetehtäviä
+
+Alla on linkit vuosien 2016, 2017, 2018 ja 2019 näyttökoetehtävien ohjelmointiosioihin. Näyttökokeiden tehtävät on tyypillisesti mitoitettu siten, että koeajassa ei ehdi tekemään kaikkia tehtäviä.
+
+Näiden näyttökokeiden arvostelussa arvostettiin enemmän pientä määrää hyvin toimivia toiminnallisuuksia kuin suurta määrää ei-toimivia toiminnallisuuksia. Tärkeämpää näissä kokeissa oli että on toimivaa kuin hienoa koodia. Koodin ylläpidettävyys vaikutti arvosanaan vähäsen.
+
+[2016 näyttökokeen ohjelmointiosio](./old-exams/2016.pdf)
+
+[2017 näyttökokeen ohjelmointiosio](./old-exams/2017.pdf)
+
+[2018 näyttökokeen ohjelmointiosio](./old-exams/2018.pdf)
+
+[2019 näyttökokeen ohjelmointiosio](./old-exams/2019.pdf)
+
+[2019 näyttökokeen datatiedostot](https://github.com/zygmuntz/goodbooks-10k)
+
 <!-- Lisätietoja näyttökokeesta: [Näyttökokeesta](./nayttokokeesta) -->
 
 #### Koeajat
