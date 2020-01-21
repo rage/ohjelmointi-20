@@ -227,5 +227,9 @@ export async function getCourseVariant() {
 }
 
 async function getCourse() {
+  const courseVariant = await getCourseVariant()
+  if (courseVariant === "nodl") {
+    return "ohjelmoinnin-perusteet"
+  }
   return CourseSettings.default.tmcCourse
 }
