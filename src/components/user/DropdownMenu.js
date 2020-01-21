@@ -42,6 +42,7 @@ const DropdownMenu = ({ selectedVariant, setSelectedVariant, t }) => {
         }
       >
         <MenuItem value={"dl"}>{t("withDeadlines")}</MenuItem>
+        <MenuItem value={"nodl"}>{t("noDeadlines")}</MenuItem>
       </Select>
     </StyledFormControl>
   )
