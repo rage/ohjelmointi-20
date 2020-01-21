@@ -25,6 +25,12 @@ Tarvitset kurssin aloittamiseen (1) käyttäjätunnuksen kurssilla käytettyyn T
 
 </only-for-course-variant>
 
+<only-for-course-variant variant="nodl">
+
+  Ohjeistus oleellisten työvälineiden asentamiseen sekä kurssilla tarvittavan käyttäjätunnuksen luomiseen löytyy osoitteesta [https://www.mooc.fi/fi/installation/netbeans](https://www.mooc.fi/fi/installation/netbeans). Valitse organisaatioksi "MOOC" ja kurssiksi "Aikatauluton Ohjelmoinnin MOOC 2020, Ohjelmoinnin perusteet".
+
+</only-for-course-variant>
+
 <only-for-not-logged-in>
 
   Kirjaudu sisään nähdäksesi, mikä organisaatio ja kurssi sinun tulee valita TMC:stä
@@ -35,9 +41,27 @@ Tarvitset kurssin aloittamiseen (1) käyttäjätunnuksen kurssilla käytettyyn T
 
 Kun olet luonut käyttäjätunnuksen ja asentanut Javan ja TMC:n, katso alla oleva video. Video näyttää mitä tapahtuu kun NetBeans with TMC -ohjelmointiympäristö käynnistetään ensimmäistä kertaa. Videolla valitaan organisaatio ja kurssi, sekä tehdään ensimmäinen ohjelmointitehtävä.
 
+<only-for-not-logged-in>
+
+Kirjaudu sisään nähdäksesi aloittamisesta ohjevideon.
+
+</only-for-not-logged-in>
+
+<only-for-course-variant variant="dl">
+
 _Videolla kurssiksi valitaan ohjelmoinnin MOOC 2019. Muista kuitenkin valita kurssiksi ohjelmoinnin MOOC 2020!_
 
 <youtube id="zvE8XA8D0gE"></youtube>
+
+</only-for-course-variant>
+
+<only-for-course-variant variant="nodl">
+
+_Videolla kurssiksi valitaan ohjelmoinnin MOOC 2019. Muista kuitenkin valita kurssiksi Aikatauluton Ohjelmoinnin MOOC 2020!_
+
+<youtube id="zvE8XA8D0gE"></youtube>
+
+</only-for-course-variant>
 
 
 Alla on kurssin ensimmäinen ohjelmointitehtävä. Tutustut tehtävässä käytettyyn ohjelmointiympäristöön.
