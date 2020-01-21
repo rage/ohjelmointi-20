@@ -27,7 +27,7 @@ Varmista ensin, että materiaalissa on oikeasti virhe. Mikäli et ole aivan varm
 
 ### Miten saan ladattua seuraavan osan ohjelmointitehtävät?
 
-NetBeans -liitännäinen tarjoaa sinulle seuraavan osan tehtäviä, kun olet saanut tarpeeksi edellisen osan ohjelmointitehtävien pisteistä. Aikataulullisella kurssilla tämä raja on 25% ja aikatauluttomalla kurssilla tämä raja on 90%.
+NetBeans -liitännäinen tarjoaa sinulle seuraavan osan tehtäviä, kun olet saanut 25% edellisen osan ohjelmointitehtävien pisteistä.
 
 ### Tehtävien lataaminen ja palauttaminen on hidasta macOS -käyttöjärjestelmällä
 
@@ -63,7 +63,7 @@ Valitettavasti me loimme vahingossa avoimen yliopiston yliopiston sivulle ja cou
 
 ### Milloin voin aloittaa aikatauluttoman kurssin?
 
-Aikatauluton kurssi julkaistaan ensimmäisen deadlinen jälkeen. Huomaathan kuitenkin, että aikatauluttomassa kurssissa täytyy tehdä enemmän tehtäviä kuin aikataulullisessa kurssissa ja aikatauluttomasta kurssista ei voi saada opinto-oikeutta. Voit kuitenkin aloittaa aikataulullisen kurssin jo nyt ja siirtyä kurssimateriaalista aikatauluttomaan jos et ehdi johonkin deadlineen.
+Voit jo aloittaa aikatauluttoman kurssin. Valitse profiili-sivulta löytyvästä kurssiversio-pudotusvalikosta kurssiksi "Aikatauluton Ohjelmoinnin MOOC". Huomaathan, että aikatauluttomalta kurssilta ei voi hakea opinto-oikeutta.
 
 ### Kurssimateriaalin uuden osan pitäisi olla julki tänään, mutta en näe sitä
 

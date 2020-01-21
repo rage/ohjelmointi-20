@@ -60,17 +60,12 @@ Ohjelmoinnin MOOCista annetaan kaksi arvosanaa, jotka vastaavat kursseja Ohjelmo
     </tbody>
 </table>
 
-Arvostelu toimii käytännössä kurssin eri versioilla seuraavasti:
+Arvostelu toimii seuraavasti:
 
-#### Aikataulutettu kurssi
-
-Aikataulutetussa kurssissa arvostelu perustuu sekä tehtyihin tehtäviin (50% kokonaispisteistä) että kokeeseen (50% kokonaispisteistä). Tämä tarkoittaa sitä, että arvosteluasteikon kokonaispisteet saadaan laskemalla tämän sivun pistevisualisaation (sininen pallo oikeassa alakulmassa) kurssipisteet ja saamasi koepisteet yhteen.
+Kurssissa arvostelu perustuu sekä tehtyihin tehtäviin (50% kokonaispisteistä) että kokeeseen (50% kokonaispisteistä). Tämä tarkoittaa sitä, että arvosteluasteikon kokonaispisteet saadaan laskemalla tämän sivun pistevisualisaation (sininen pallo oikeassa alakulmassa) kurssipisteet ja saamasi koepisteet yhteen.
 
 Kokeeseen saa osallistua kun on tehnyt vähintään 25% jokaisen osan ohjelmointitehtävien pisteistä.
 
-#### Aikatauluttamaton kurssi
-
-Aikatauluttoman kurssin arvosteluperusteet tulevat tänne myöhemmin.
 <!--
 Aikatauluttamattomassa kurssiversiossa arvostelu perustuu täysin kokeeseen. Tällä kurssin versiolla arvosteluasteikon kokonaispisteet ovat siis pelkästään koepisteet.
 
