@@ -162,7 +162,7 @@ Ohjelmoinnin opettelu onkin oikeastaan tie täynnä virheitä -- jokainen virhev
 Tehtäväpohjassa on seuraavanlainen ohjelmarunko:
 
 ```java
-public class OlipaKerran {
+public class OlipaKerranOhjelma {
     public static void main(String[] args) {
         // Toteuta ohjelmasi tänne
 
