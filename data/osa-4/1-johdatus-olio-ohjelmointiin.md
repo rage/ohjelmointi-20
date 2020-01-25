@@ -1,7 +1,7 @@
 ---
 path: '/osa-4/1-johdatus-olio-ohjelmointiin'
 title: 'Johdatus olio-ohjelmointiin'
-hidden: true
+hidden: false
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
