@@ -4,7 +4,6 @@ title: 'Johdatus olio-ohjelmointiin'
 hidden: true
 ---
 
-
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
 
 - Tunnet käsitteet luokka, olio, konstruktori, olion metodit ja olion muuttujat (eli oliomuuttujat).
@@ -764,13 +763,15 @@ Arvostelujen keskiarvo 10.0
 Kaikki tähän mennessä näkemämme muuttujatyypit voidaan myös palauttaa metodista. Yhteenveto:
 
 - Metodilla, joka ei palauta mitään, on `void`-määre palautettavan muuttujan tyyppinä.
+
 ```java
 public void metodiJokaEiPalautaMitaan() {
-    // metodin runko - TODO: miksi tämä (ja seuraavat) ei ole sisennetty oikein?
+    // metodin runko
 }
 ```
 
 - Metodilla, joka palauttaa kokonaislukutyyppisen muuttujan, on `int`-määre palautettavan muuttujan tyyppinä.
+
 ```java
 public int metodiJokaPalauttaaKokonaisLuvun() {
     // metodin runko, tarvitsee return-komennon
@@ -778,6 +779,7 @@ public int metodiJokaPalauttaaKokonaisLuvun() {
 ```
 
 - Metodilla, joka palauttaa merkkijonotyyppisen muuttujan, on `String`-määre palautettavan muuttujan tyyppinä.
+
 ```java
 public String metodiJokaPalauttaaTekstin() {
     // metodin runko, tarvitsee return-komennon
@@ -785,6 +787,7 @@ public String metodiJokaPalauttaaTekstin() {
 ```
 
 - Metodilla, joka palauttaa liukulukutyyppisen muuttujan, on `double`-määre palautettavan muuttujan tyyppinä.
+
 ```java
 public double metodiJokaPalauttaaLiukuluvun() {
     // metodin runko, tarvitsee return-komennon
