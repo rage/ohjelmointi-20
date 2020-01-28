@@ -5,13 +5,15 @@ hidden: false
 information_page: true
 ---
 
-Ohjelmoinnin MOOC sisältää Helsingin yliopiston kurssit Ohjelmoinnin perusteet (materiaalin osat 1-7) ja Ohjelmoinnin jatkokurssi (materiaalin osat 8-14). Kummastakin osasta järjestetään verkossa tehtävä ilmainen koe, ja kummastakin osasta saa erillisen arvosanan. Ohjelmoinnin MOOCista on kaksi versiota: aikataulutettu kurssi ja aikatauluttamaton kurssi. Näiden arvostelu poikkeaa hieman toisistaan.
+<notice>Huomioi, että kurssikokeet eroavat näyttökokeesta. Opinto-oikeutta (opiskelupaikkaa) voi hakea vain näyttökokeella, joka edellyttää aikataulullisen kurssin tekemisen. [Lisätietoa](./opinto-oikeus).</notice>
+
+Ohjelmoinnin MOOC sisältää Helsingin yliopiston kurssit Ohjelmoinnin perusteet (materiaalin osat 1-7) ja Ohjelmoinnin jatkokurssi (materiaalin osat 8-14). Kummastakin osasta järjestetään verkossa tehtävä ilmainen koe, ja kummastakin osasta saa erillisen arvosanan. Ohjelmoinnin MOOCista on kaksi versiota: aikataulutettu kurssi ja aikatauluttamaton kurssi. Näiden arvostelu ei eroa toisistaan.
 
 Ohjelmoinnin perusteita vastaava koe suoritetaan materiaalin osien 1-7 jälkeen. Ohjelmoinnin jatkokurssia vastaava koe puolestaan suoritetaan materiaalin osien 8-14 jälkeen.
 
 Molempia kokeita järjestetään useana eri päivänä. Voit osallistua kokeisiin minä tahansa koepäivänä. Kurssilla saa osallistua halutessaan useampaan kokeeseen. Opintorekisteriin jää paras suoritus.
 
-Koepäivät tulevat tänne tammikuussa.
+Osien 1-7 ensimmäinen koepäivä on 7.3. Muita koepäiviä päivitetään tänne keväällä.
 
 ## Kurssin pisteytys
 

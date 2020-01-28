@@ -40,7 +40,25 @@ Näyttökoetta varten järjestetään useita koetilaisuuksia. Opinto-oikeutta ha
 
 Kaikki koetilaisuudet järjestetään Helsingin yliopiston Kumpulan kampuksella. Koesali ja reittiohjeet kampukselle kerrotaan näyttökoekutsussa.
 
-## Edellisten vuosien näyttökoetehtäviä
+#### Koeajat
+
+Näyttökoetilaisuuksia järjestetään 27.4.-15.5. arkipäivisin.
+
+Koeaikoja tulee olemaan aamusta iltaan. Varaa kokeeseen aikaa kolme tuntia.
+
+#### Kutsu
+
+Kokeeseen saa kutsun sähköpostitse siihen sähköpostiosoitteeseen, jolla rekisteröityi kurssimateriaaleihin.
+
+Kutsu lähetetään kaikille, jotka ovat saaneet vähintään 90% osien 1-13 ohjelmointitehtävien pisteistä ja jotka ovat valinneet kurssimateriaalin Profiili-asetuksista kohdan "Aion hakea aikataulutetun Ohjelmoinnin MOOCin kautta opinto-oikeutta Helsingin yliopistoon." Tämän pääsee asettamaan painamalla sivuston yläreunasta omaa nimeään/sähköpostiosoitettaan. Tarvittava asetus löytyy avautuvan Profiili-sivun "Opiskelijan tiedot"-osasta.
+
+Paikkoja yksittäisiin näyttökoeaikoihin on rajoitetusti, joten teethän osan 13 tehtävät nopeasti mikäli tiedät vaihtoehtojesi olevan rajatut.
+
+Kutsussa on ohjeet, miten voi ilmoittautua koetilaisuuteen.
+
+**Huomioi, että sinun on saatava vähintään 90% osan 14 ohjelmointitehtävien pisteistä ennen valitsemaasi näyttökoepäivää.**
+
+#### Edellisten vuosien näyttökoetehtäviä
 
 Alla on linkit vuosien 2016, 2017, 2018 ja 2019 näyttökoetehtävien ohjelmointiosioihin. Näyttökokeiden tehtävät on tyypillisesti mitoitettu siten, että koeajassa ei ehdi tekemään kaikkia tehtäviä.
 
@@ -57,15 +75,3 @@ Näiden näyttökokeiden arvostelussa arvostettiin enemmän pientä määrää h
 [2019 näyttökokeen datatiedostot](https://github.com/zygmuntz/goodbooks-10k)
 
 <!-- Lisätietoja näyttökokeesta: [Näyttökokeesta](./nayttokokeesta) -->
-
-#### Koeajat
-
-Näyttökoetilaisuuksia järjestetään toukokuun alussa.
-
-Koeaikoja tulee olemaan aamusta iltaan. Varaa kokeeseen aikaa kolme tuntia.
-
-#### Kutsu
-
-Kokeeseen saa kutsun sähköpostitse siihen sähköpostiosoitteeseen, jolla rekisteröityi kurssimateriaaleihin. Kutsu lähetetään kaikille, jotka ovat saaneet vähintään 90% jokaisen osan ohjelmointitehtävien pisteistä ja jotka ovat valinneet kurssimateriaalin Profiili-asetuksista kohdan "Aion hakea aikataulutetun Ohjelmoinnin MOOCin kautta opinto-oikeutta Helsingin yliopistoon." Tämän pääsee asettamaan painamalla sivuston yläreunasta omaa nimeään/sähköpostiosoitettaan. Tarvittava asetus löytyy avautuvan Profiili-sivun "Opiskelijan tiedot"-osasta.
-
-Kutsussa on ohjeet, miten voi ilmoittautua koetilaisuuteen.
