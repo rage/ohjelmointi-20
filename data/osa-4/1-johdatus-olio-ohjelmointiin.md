@@ -1477,9 +1477,9 @@ Keskiarvo: 2.75
 
 Tee ohjelma, joka kysyy lukuja käyttäjältä, kunnes käyttäjä antaa luvun -1. Sitten ohjelma ilmoittaa lukujen summan.
 
-Ohjelmassa tulee käyttää `Lukutilasto`-olioa summan laskemiseen.
+Ohjelmassa tulee käyttää `Lukutilasto`-oliota summan laskemiseen.
 
-**HUOM:** Älä muuta tässä osassa luokka Lukutilasto, vaan toteuta sitä hyödyntäen summan laskemiseen käytetty ohjelma.
+**HUOM:** Älä muuta tässä osassa luokkaa Lukutilasto, vaan toteuta sitä hyödyntäen summan laskemiseen käytetty ohjelma.
 
 <sample-output>
 
@@ -1498,11 +1498,11 @@ Summa: 15
 
 Muuta edellistä ohjelmaa niin, että ohjelma laskee myös parillisten ja parittomien lukujen summaa.
 
-**HUOM**: Määrittele ohjelmassa *kolme* Lukutilasto-olioa ja laske ensimmäisen avulla kaikkien lukujen summa, toisen avulla parillisten lukujen summa ja kolmannen avulla parittomien lukujen summa.
+**HUOM**: Määrittele ohjelmassa *kolme* Lukutilasto-oliota ja laske ensimmäisen avulla kaikkien lukujen summa, toisen avulla parillisten lukujen summa ja kolmannen avulla parittomien lukujen summa.
 
 **Jotta testi toimisi, on oliot luotava pääohjelmassa edellä mainitussa järjestyksessä (eli ensin kaikkien summan laskeva olio, toisena parillisten summan laskeva ja viimeisenä parittomien summan laskeva olio)!**
 
-**HUOM:** älä muuta Lukutilasto-luokaa millään tavalla!
+**HUOM:** älä muuta Lukutilasto-luokkaa millään tavalla!
 
 Ohjelman tulee toimia seuraavasti:
 
