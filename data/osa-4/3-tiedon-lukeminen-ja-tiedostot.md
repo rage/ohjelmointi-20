@@ -416,7 +416,7 @@ try (Scanner tiedostonLukija = new Scanner(Paths.get("henkilot.csv"))) {
         String rivi = tiedostonLukija.nextLine();
 
         // mikäli rivi on tyhjä, ei käsitellä sitä
-        if (rivi.isBlank() == 0) {
+        if (rivi.isBlank()) {
             continue;
         }
 
