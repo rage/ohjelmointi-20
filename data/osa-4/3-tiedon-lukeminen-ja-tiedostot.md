@@ -403,7 +403,7 @@ mittaukset-2.txt:
 
 <text-box typie="hint" name="Tyhjä rivi tiedostossa">
 
-Joskus tiedostoon eksyy tyhjä rivi. Tyhjän rivin ohittaminen onnistuu toistolauseen komennolla `continue` sekä merkkijonon `isBlank`-metodilla.
+Joskus tiedostoon eksyy tyhjä rivi. Tyhjän rivin ohittaminen onnistuu toistolauseen komennolla `continue` sekä merkkijonon `isEmpty`-metodilla.
 
 Alla olevassa esimerkissä luetaan tiedostosta
 Tiedon lukeminen on suoraviivaista.
@@ -416,7 +416,7 @@ try (Scanner tiedostonLukija = new Scanner(Paths.get("henkilot.csv"))) {
         String rivi = tiedostonLukija.nextLine();
 
         // mikäli rivi on tyhjä, ei käsitellä sitä
-        if (rivi.isBlank()) {
+        if (rivi.isEmpty()) {
             continue;
         }
 
