@@ -1,7 +1,7 @@
 ---
 path: '/osa-5/3-alkeis-ja-viittaustyyppiset-muuttujat'
 title: 'Kahdenlaisia muuttujia: Alkeis- ja viittaustyyppiset muuttujat'
-hidden: true
+hidden: false
 ---
 
 
