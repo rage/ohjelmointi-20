@@ -1,9 +1,8 @@
 ---
 path: '/osa-4/1-johdatus-olio-ohjelmointiin'
 title: 'Johdatus olio-ohjelmointiin'
-hidden: true
+hidden: false
 ---
-
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
 
@@ -764,13 +763,15 @@ Arvostelujen keskiarvo 10.0
 Kaikki tähän mennessä näkemämme muuttujatyypit voidaan myös palauttaa metodista. Yhteenveto:
 
 - Metodilla, joka ei palauta mitään, on `void`-määre palautettavan muuttujan tyyppinä.
+
 ```java
 public void metodiJokaEiPalautaMitaan() {
-    // metodin runko - TODO: miksi tämä (ja seuraavat) ei ole sisennetty oikein?
+    // metodin runko
 }
 ```
 
 - Metodilla, joka palauttaa kokonaislukutyyppisen muuttujan, on `int`-määre palautettavan muuttujan tyyppinä.
+
 ```java
 public int metodiJokaPalauttaaKokonaisLuvun() {
     // metodin runko, tarvitsee return-komennon
@@ -778,6 +779,7 @@ public int metodiJokaPalauttaaKokonaisLuvun() {
 ```
 
 - Metodilla, joka palauttaa merkkijonotyyppisen muuttujan, on `String`-määre palautettavan muuttujan tyyppinä.
+
 ```java
 public String metodiJokaPalauttaaTekstin() {
     // metodin runko, tarvitsee return-komennon
@@ -785,6 +787,7 @@ public String metodiJokaPalauttaaTekstin() {
 ```
 
 - Metodilla, joka palauttaa liukulukutyyppisen muuttujan, on `double`-määre palautettavan muuttujan tyyppinä.
+
 ```java
 public double metodiJokaPalauttaaLiukuluvun() {
     // metodin runko, tarvitsee return-komennon
@@ -1474,9 +1477,9 @@ Keskiarvo: 2.75
 
 Tee ohjelma, joka kysyy lukuja käyttäjältä, kunnes käyttäjä antaa luvun -1. Sitten ohjelma ilmoittaa lukujen summan.
 
-Ohjelmassa tulee käyttää `Lukutilasto`-olioa summan laskemiseen.
+Ohjelmassa tulee käyttää `Lukutilasto`-oliota summan laskemiseen.
 
-**HUOM:** Älä muuta tässä osassa luokka Lukutilasto, vaan toteuta sitä hyödyntäen summan laskemiseen käytetty ohjelma.
+**HUOM:** Älä muuta tässä osassa luokkaa Lukutilasto, vaan toteuta sitä hyödyntäen summan laskemiseen käytetty ohjelma.
 
 <sample-output>
 
@@ -1495,11 +1498,11 @@ Summa: 15
 
 Muuta edellistä ohjelmaa niin, että ohjelma laskee myös parillisten ja parittomien lukujen summaa.
 
-**HUOM**: Määrittele ohjelmassa *kolme* Lukutilasto-olioa ja laske ensimmäisen avulla kaikkien lukujen summa, toisen avulla parillisten lukujen summa ja kolmannen avulla parittomien lukujen summa.
+**HUOM**: Määrittele ohjelmassa *kolme* Lukutilasto-oliota ja laske ensimmäisen avulla kaikkien lukujen summa, toisen avulla parillisten lukujen summa ja kolmannen avulla parittomien lukujen summa.
 
 **Jotta testi toimisi, on oliot luotava pääohjelmassa edellä mainitussa järjestyksessä (eli ensin kaikkien summan laskeva olio, toisena parillisten summan laskeva ja viimeisenä parittomien summan laskeva olio)!**
 
-**HUOM:** älä muuta Lukutilasto-luokaa millään tavalla!
+**HUOM:** älä muuta Lukutilasto-luokkaa millään tavalla!
 
 Ohjelman tulee toimia seuraavasti:
 

@@ -1,7 +1,7 @@
 ---
 path: '/osa-4/3-tiedon-lukeminen-ja-tiedostot'
 title: 'Tiedon lukeminen ja tiedostot'
-hidden: true
+hidden: false
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
@@ -11,8 +11,6 @@ hidden: true
 - Osaat kirjoittaa ohjelman, joka lukee tietoa tiedostosta.
 
 </text-box>
-
-<quiz id="27a93658-c91e-5d2f-a375-1aeaeb4b016f"></quiz>
 
 
 Merkittävä osa ohjelmistoista perustuu tavalla tai toisella tiedon käsittelyyn. Musiikin toistoon tarkoitetut ohjelmistot käsittelevät musiikkitiedostoja, kuvankäsittelyohjelmat käsittelevät kuvatiedostoja. Verkossa ja mobiililaitteissa toimivat sovellukset kuten Facebook, WhatsApp ja Telegram taas käsittelevät tiedostoihin perustuviin tietokantoihin tallennettuja henkilötietoja. Kaikissa näistä sovelluksista on yhteistä tiedon lukeminen, tiedon käsitteleminen tavalla tai toisella sekä se, että käsiteltävä tieto on loppujenlopulta tallennettu jonkinlaisessa muodossa yhteen tai useampaan tiedostoon.
@@ -348,7 +346,7 @@ Tiedoston olematon.txt lukeminen epäonnistui.
 
 
 
-<programming-exercise name='Mittaukset tiedostosta' tmcname='osa04-Osa04_08.MittauksetTiedostosta'>
+<programming-exercise name='Mittaukset tiedostosta' tmcname='osa04-Osa04_28.MittauksetTiedostosta'>
 
 Toteuta ohjelma, joka lukee käyttäjältä tiedoston nimen sekä hyväksyttävien lukujen ala- ja ylärajan. Tämän jälkeen ohjelma lukee tiedoston sisältämät luvut (jokainen luku on omalla rivillään) ja ottaa huomioon vain ne luvut, jotka ovat annetulla lukuvälillä. Lopulta ohjelma tulostaa annetulla lukuvälillä olleiden lukujen lukumäärän.
 
@@ -405,7 +403,7 @@ mittaukset-2.txt:
 
 <text-box typie="hint" name="Tyhjä rivi tiedostossa">
 
-Joskus tiedostoon eksyy tyhjä rivi. Tyhjän rivin ohittaminen onnistuu toistolauseen komennolla `continue` sekä merkkijonon `isBlank`-metodilla.
+Joskus tiedostoon eksyy tyhjä rivi. Tyhjän rivin ohittaminen onnistuu toistolauseen komennolla `continue` sekä merkkijonon `isEmpty`-metodilla.
 
 Alla olevassa esimerkissä luetaan tiedostosta
 Tiedon lukeminen on suoraviivaista.
@@ -418,7 +416,7 @@ try (Scanner tiedostonLukija = new Scanner(Paths.get("henkilot.csv"))) {
         String rivi = tiedostonLukija.nextLine();
 
         // mikäli rivi on tyhjä, ei käsitellä sitä
-        if (rivi.isBlank() == 0) {
+        if (rivi.isEmpty()) {
             continue;
         }
 
@@ -572,7 +570,7 @@ Tehtäväpohjassa on valmiina `main`-metodi, jossa voit kokeilla ohjelmasi toimi
 </programming-exercise>
 
 
-<programming-exercise name='Urheilutilastot' tmcname='osa04-Osa04_31.Urheilutilastot (2 osaa)'>
+<programming-exercise name='Urheilutilastot (2 osaa)' tmcname='osa04-Osa04_31.Urheilutilastot'>
 
 Tehtävässä käsitellään CSV-muodossa tallennettuja urheilutilastoja. Tiedosto sisältää pilkulla erotettuna kotijoukkeen, vierasjoukkueen, kotijoukkueen pisteet, sekä vierasjoukkueen pisteet.
 

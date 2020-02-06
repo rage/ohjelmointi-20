@@ -1,7 +1,7 @@
 ---
 path: '/osa-5/2-metodien-ja-konstruktorien-kuormittaminen'
 title: 'Toistuvan koodin vähentäminen: Metodien ja konstruktorien kuormittaminen'
-hidden: true
+hidden: false
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
@@ -295,11 +295,7 @@ public void vanhene(int vuodet) {
 
 <quiz id='2ccd1f25-e3ac-5756-beb2-333dd5bcd322'></quiz>
 
-TODO: tarkasta että video oikealla kohdalla
-
 <youtube id='b6YmqoQopvs'></youtube>
-
-
 
 
 <programming-exercise name='Kuormitettu laskuri (2 osaa)' tmcname='osa05-Osa05_06.KuormitettuLaskuri'>
