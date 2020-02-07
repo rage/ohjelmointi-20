@@ -19,6 +19,10 @@ Jos kysyt kanavalta apua ohjelmointitehtävään, voit liittää kysymykseesi my
 
 Kurssilla on myös olemassa off topic -kanava keskusteluille, jotka eivät suoraan liity kurssiin: [https://t.me/ohjelmointi20_ot](https://t.me/ohjelmointi20_ot).
 
+## Sähköposti
+
+Voit lähettää kurssin ylläpitäjille sähköpostia osoitteeseen ohjelmoinnin-mooc@helsinki.fi. 
+
 ## Pajaohjaus
 
 Kurssilla on mahdollisuus saada hyvää ohjelmointiseuraa sekä saada apua tehtäviin, ohjelmointiin ja teknisiin ongelmiin tulemalla kurssin pajaan! Paja sijaitsee Helsingin yliopiston Kumpulan kampuksella olevassa Exactum-rakennuksessa. Kaikki ovat tervetulleita pajaan!
