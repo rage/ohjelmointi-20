@@ -1,7 +1,7 @@
 ---
 path: '/osa-6/3-johdatus-ohjelmien-testaamiseen'
 title: 'Johdatus ohjelmien testaamiseen'
-hidden: true
+hidden: false
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>

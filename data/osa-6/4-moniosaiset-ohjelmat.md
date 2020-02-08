@@ -1,7 +1,7 @@
 ---
 path: '/osa-6/4-moniosaiset-ohjelmat'
 title: 'Moniosaiset ohjelmat'
-hidden: true
+hidden: false
 ---
 
 
@@ -19,3 +19,7 @@ _When you write a software module, you want to make sure that when changes are r
 _[..in other words..] Gather together the things that change for the same reasons. Separate those things that change for different reasons._
 
 Selkeys ohjelmaan luodaan sopivalla ohjelman rakenteella sekä nimeämiskäytänteiden seuraamisella. Opit ohjelmoidessasi että jokaiselle ohjelman osalle voidaan määritellä yksi selkeä vastuu.
+
+Vastaa vielä lopuksi seuraavaan kuudennen osan osaamistavoitteita tarkastelevaan itsearviointikyselyyn.
+
+<quiz id="7acb41cd-c0ab-5198-9c2f-72ebe8170ae6"></quiz>

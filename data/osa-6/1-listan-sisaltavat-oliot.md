@@ -1,13 +1,12 @@
 ---
 path: '/osa-6/1-olioista-koostuvat-oliot'
 title: 'Olioita listalla ja listan sisältävät oliot'
-hidden: true
+hidden: false
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
 
 - Kertaat listojen käyttöä.
-- Tiedät, että viittaustyyppisen muuttujan lisääminen listalle kopioi listalle muuttujan viitteen.
 - Osaat käyttää listaa oliomuuttujana.
 
 </text-box>

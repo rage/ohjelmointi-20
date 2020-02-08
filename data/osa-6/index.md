@@ -2,32 +2,17 @@
 path: '/osa-6'
 title: 'Osa 6'
 overview: true
-hidden: true
+hidden: false
 ---
 
 <only-for-course-variant variant="dl">
-  <deadline>25.2.2020</deadline>
+  <deadline>24.2.2020</deadline>
 </only-for-course-variant>
 
 <only-for-course-variant variant="nodl">
-  <deadline>4.1.2020</deadline>
+  <deadline>Ei deadlineä</deadline>
 </only-for-course-variant>
 
-<only-for-course-variant variant="ohja-dl">
-  <deadline>Tämä osa ei ole osa profiilista valitsemaasi kurssia</deadline>
-</only-for-course-variant>
-
-<only-for-course-variant variant="ohja-nodl">
-  <deadline>Tämä osa ei ole osa profiilista valitsemaasi kurssia</deadline>
-</only-for-course-variant>
-
-<only-for-course-variant variant="kesa-dl">
-  <deadline>17.6.2020</deadline>
-</only-for-course-variant>
-
-<only-for-course-variant variant="kesa-ohja-dl">
-  <deadline>Tämä osa ei ole osa profiilista valitsemaasi kurssia</deadline>
-</only-for-course-variant>
 
 <only-for-not-logged-in>
   <deadline>Kirjaudu sisään nähdäksesi deadlinen tälle osalle</deadline>

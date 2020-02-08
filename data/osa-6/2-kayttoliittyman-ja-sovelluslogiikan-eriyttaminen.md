@@ -1,7 +1,7 @@
 ---
 path: '/osa-6/2-kayttoliittyman-ja-sovelluslogiikan-eriyttaminen'
 title: 'Käyttöliittymän ja sovelluslogiikan eriyttäminen'
-hidden: true
+hidden: false
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
@@ -1219,7 +1219,7 @@ Arvosanojen keskiarvo: 2.4285714285714284
 </programming-exercise>
 
 
-<programming-exercise name='Sovellus osiin (2 osaa)' tmcname='osa06-Osa06_12.SovellusOsiin'>
+<programming-exercise name='Vitsipankki (2 osaa)' tmcname='osa06-Osa06_12.Vitsipankki'>
 
 Tehtäväpohjassa on valmiina seuraava "mainiin" kirjoitettu sovellus.
 
