@@ -36,7 +36,7 @@ Alla olevaan taulukkoon on ruksattu kevään paja-ajat. Ajat saattavat muuttua k
 |       | MA | TI | KE | TO | PE |
 |:-----:|:--:|:--:|:--:|:--:|:--:|
 | 10-12 | X  |    |    |    |    |
-| 12-14 | X  | X  |    | X  | X  |
+| 12-14 | X  |    |    | X  | X  |
 | 14-16 | X  | X  |    | X  | X  |
 | 16-18 | X  |    |    | X  | X  |
 
