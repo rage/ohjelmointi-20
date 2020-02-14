@@ -21,7 +21,7 @@ Kurssilla on myös olemassa off topic -kanava keskusteluille, jotka eivät suora
 
 ## Sähköposti
 
-Voit lähettää kurssin ylläpitäjille sähköpostia osoitteeseen ohjelmoinnin-mooc@helsinki.fi. 
+Voit lähettää kurssin ylläpitäjille sähköpostia osoitteeseen ohjelmoinnin-mooc@helsinki.fi.
 
 ## Pajaohjaus
 
@@ -33,12 +33,7 @@ Pajaa pidetään luokassa **BK107** aivan Exactumin UniCafen vieressä. Exactum-
 
 Alla olevaan taulukkoon on ruksattu kevään paja-ajat. Ajat saattavat muuttua kurssin edetessä joten tarkistathan paja-ajat aina ennen kuin tulet pajaan.
 
-|       | MA | TI | KE | TO | PE |
-|:-----:|:--:|:--:|:--:|:--:|:--:|
-| 10-12 | X  |    |    |    |    |
-| 12-14 | X  |    |    | X  | X  |
-| 14-16 | X  | X  |    | X  | X  |
-| 16-18 | X  |    |    | X  | X  |
+<workshop-schedule slug="ohpe"></workshop-schedule>
 
 <!--
 ## Moodle-foorumi
