@@ -9,3 +9,7 @@ Ensimmäisen seitsemän osan aikana olet tutustunut ohjelmoinnin perustaitoihin 
 Matka jatkuu ohjelmoinnin jatkokurssilta, joka alkaa materiaalin kahdeksannesta osasta.
 
 **Huom!** Ohjelmoinnin MOOCin Helsingin yliopiston Ohjelmoinnin perusteet -kurssin kattava alkuosa eli osat 1-7 päättyy tämän osan suorittamiseen. Osan 7 tekemisen jälkeen tehdään kurssikoe, josta voi saada 5 opintopistettä. Katso tarkempia tietoja kohdasta [Arvostelu ja kokeet](/arvostelu-ja-kokeet). Mikäli et ole Helsingin yliopiston läsnäoleva opiskelija ja et ole ilmoittautunut kurssille Helsingin yliopiston Avoimen yliopiston kautta, tee ilmoittautuminen nyt.
+
+Vastaa vielä lopuksi seuraavaan seitsemännen osan osaamistavoitteita tarkastelevaan itsearviointikyselyyn.
+
+<quiz id="b01cd98d-1f72-5c99-a805-a0f4fe69623d"></quiz>
