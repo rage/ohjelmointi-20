@@ -2,32 +2,17 @@
 path: '/osa-7'
 title: 'Osa 7'
 overview: true
-hidden: true
+hidden: false
 ---
 
 <only-for-course-variant variant="dl">
-  <deadline>4.3.2020</deadline>
+  <deadline>2.3.2020</deadline>
 </only-for-course-variant>
 
 <only-for-course-variant variant="nodl">
-  <deadline>4.1.2020</deadline>
+  <deadline>Ei deadlineä</deadline>
 </only-for-course-variant>
 
-<only-for-course-variant variant="ohja-dl">
-  <deadline>Tämä osa ei ole osa profiilista valitsemaasi kurssia</deadline>
-</only-for-course-variant>
-
-<only-for-course-variant variant="ohja-nodl">
-  <deadline>Tämä osa ei ole osa profiilista valitsemaasi kurssia</deadline>
-</only-for-course-variant>
-
-<only-for-course-variant variant="kesa-dl">
-  <deadline>24.6.2020</deadline>
-</only-for-course-variant>
-
-<only-for-course-variant variant="kesa-ohja-dl">
-  <deadline>Tämä osa ei ole osa profiilista valitsemaasi kurssia</deadline>
-</only-for-course-variant>
 
 <only-for-not-logged-in>
   <deadline>Kirjaudu sisään nähdäksesi deadlinen tälle osalle</deadline>
@@ -38,7 +23,7 @@ Kurssimateriaalin seitsemännessä osassa käsitellään yleisiä ohjelmointipar
 
 <text-box variant="hint" name="Kurssin kokeesta">
 
-**Huom!** Ohjelmoinnin MOOCin Helsingin yliopiston Ohjelmoinnin perusteet -kurssin kattava alkuosa eli osat 1-7 päättyy tämän osan suorittamiseen. Osan 7 tekemisen jälkeen tehdään kurssikoe, josta voi saada 5 opintopistettä. Ensimmäinen tentti järjestetään 7.3.2020 klo 8 - 22 välillä. **Tarkempi ohjeistus tentin suorittamiseen julkaistaan tällä sivulla viimeistään 1 viikko ennen tenttiä**. 
+**Huom!** Ohjelmoinnin MOOCin Helsingin yliopiston Ohjelmoinnin perusteet -kurssin kattava alkuosa eli osat 1-7 päättyy tämän osan suorittamiseen. Osan 7 tekemisen jälkeen tehdään kurssikoe, josta voi saada 5 opintopistettä. Ensimmäinen tentti järjestetään 7.3.2020 klo 8 - 22 välillä. **Tarkempi ohjeistus tentin suorittamiseen julkaistaan tällä sivulla viimeistään 1 viikko ennen tenttiä**.
 
 Suosittelemme kaikille kurssin tekijöille tentin suorittamista. Tentin suorittamalla saat opintopisteet ja halutessasi virallisen todistuksen kurssin suorituksesta.
 

@@ -1,7 +1,7 @@
 ---
 path: '/osa-7/2-algoritmiikkaa'
 title: 'Algoritmiikkaa'
-hidden: true
+hidden: false
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
@@ -11,6 +11,12 @@ hidden: true
 - Osaat kertoa miten peräkkäishaku- ja binäärihakualgoritmi toimii.
 
 </text-box>
+
+<text-box variant="hint" name="Kysely oppimisanalytiikkaan liittyvistä asenteista, odotuksista ja etiikasta">
+Vastaa kyselyyn oppimisanalytiikkaan liittyvistä asenteista, odotuksista ja etiikasta. Kyselyn vastauksia käytetään osana Ohjelmoinnin MOOC -kurssin kehitystä sekä kurssiin ja oppimiseen liittyvää tutkimusta. <google-form-link href="https://docs.google.com/forms/d/e/1FAIpQLSdAVcpJNejORVo7o3bdXgqvNHBJWRdnCgg4sKU6Qb3W_trOCA/viewform?usp=pp_url" emailfieldname="entry.1447736741">Avaa kysely tätä linkkiä klikkaamalla</google-form-link>.
+</text-box>
+
+<quiz id="9c76d5e0-4f88-5498-a877-d829e93bebc7"></quiz>
 
 Tietojenkäsittelytieteen ja tietotekniikan ytimessä ovat algoritmit, eli selkeät ohjeet siitä, miten tietty tehtävä suoritetaan. Ohjelmoinnin yhteydessä algoritmit määritellään tyypillisesti ohjelmakoodin avulla.
 

@@ -33,7 +33,6 @@ const courseSettings = {
     { separator: true, title: "Ohjelmoinnin perusteet" },
   ],
   sidebarFuturePages: [
-    { title: "Osa 7", tba: "15.2.2020" },
     { separator: true, title: "Ohjelmoinnin jatkokurssi" },
     { title: "Osa 8", tba: "1.3.2020" },
     { title: "Osa 9", tba: "8.3.2020" },
