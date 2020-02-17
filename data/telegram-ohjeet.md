@@ -5,8 +5,6 @@ hidden: false
 information_page: true
 ---
 
-# Telegram ohjeet
-
 Telegramissa on mahdollisuus saada tukea kurssin tehtäviin niin kanssaopiskelijoilta kuin kurssin ohjaajilta. Kanavalla voi kysyä kurssin tehtävistä ja muista kurssiin liittyvistä asioista. Käytössämme on myös [off topic -kanava](https://t.me/ohjelmointi20_ot), jonka tarkoituksena on tarjota paikka keskusteluille jotka eivät suoranaisesti liity kurssiin, kuten muut ohjelmointikielet ja yliopistossa opiskelu.
 
 ### Huomio
