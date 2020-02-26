@@ -23,7 +23,17 @@ Kurssimateriaalin seitsemännessä osassa käsitellään yleisiä ohjelmointipar
 
 <text-box variant="hint" name="Kurssin kokeesta">
 
-**Huom!** Ohjelmoinnin MOOCin Helsingin yliopiston Ohjelmoinnin perusteet -kurssin kattava alkuosa eli osat 1-7 päättyy tämän osan suorittamiseen. Osan 7 tekemisen jälkeen tehdään kurssikoe, josta voi saada 5 opintopistettä. Ensimmäinen tentti järjestetään 7.3.2020 klo 8 - 22 välillä. **Tarkempi ohjeistus tentin suorittamiseen julkaistaan tällä sivulla viimeistään 1 viikko ennen tenttiä**.
+**Huom!** Ohjelmoinnin MOOCin Helsingin yliopiston Ohjelmoinnin perusteet -kurssin kattava alkuosa eli osat 1-7 päättyy tämän osan suorittamiseen. Osan 7 tekemisen jälkeen tehdään kurssikoe, josta voi saada 5 opintopistettä. Ensimmäinen tentti järjestetään 7.3.2020 klo 8 - 22 välillä seuraavasti:
+
+* Aikaa tentin tekemiseen on **neljä tuntia**.
+* Tenttiaika alkaa juosta siitä hetkestä kun avaat tenttisivun. Tenttiajan ulkopuolella tehtyjä suorituksia ei huomioida.
+* Tenttilinkki ilmestyy **tälle sivulle lauantaina 7.3.2020 klo 08:00**.
+* Tenttiin kirjaudutaan käyttäen normaaleja mooc.fi-tunnuksia.
+* Tenttivastaukset kirjoitetaan ja lähetetään Netbeansin avulla samoin kuin kurssitehtävätkin.
+* Tarkemmat ohjeet vastausten lähettämisestä löytyvät tenttisivulta.
+* Tentissä **ei** saa tehdä yhteistyötä eikä kopioida valmiita vastauksia. Normaaleja tiedonhakukeinoja saa käyttää.
+* Tenttivastaukset tarkistetaan plagoinnintunnistusohjelmalla. Huijaus johtaa aina vähintään tenttisuorituksen hylkäämiseen, mahdollisesti myös kurssilta poistamiseen.
+* Tenttikysymykset muistuttavat kurssimateriaalin tehtäviä - tenttiin valmistautumiseksi kannattaa siis kertailla materiaalia.
 
 Suosittelemme kaikille kurssin tekijöille tentin suorittamista. Tentin suorittamalla saat opintopisteet ja halutessasi virallisen todistuksen kurssin suorituksesta.
 
