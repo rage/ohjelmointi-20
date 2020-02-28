@@ -15,6 +15,8 @@ Molempia kokeita järjestetään useana eri päivänä. Voit osallistua kokeisii
 
 Osien 1-7 ensimmäinen koepäivä on 7.3. Muita koepäiviä päivitetään tänne keväällä.
 
+Lisätietoa Ohjelmoinnin perusteiden kokeen järjestelystä löytyy [Osan 7 etusivulta](./osa-7).
+
 ## Kurssin pisteytys
 
 Jokaisen osan kaikista tehtävistä saa tehtäväpisteitä. Löydät osan kaikki tehtävät valitsemalla kyseisen osan yleisnäkymästä "Lista osan tehtävistä". Näet tehtäväpisteesi kurssimateriaalin oikeassa alakulmassa olevasta pistevisualisaatiosta kohdan "Tehtäväpisteet yhteensä" kohdalta.
