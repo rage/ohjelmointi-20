@@ -13,36 +13,27 @@ hidden: true
   <deadline>4.1.2020</deadline>
 </only-for-course-variant>
 
-<only-for-course-variant variant="ohja-dl">
-  <deadline>18.3.2020</deadline>
-</only-for-course-variant>
-
-<only-for-course-variant variant="ohja-nodl">
-  <deadline>20.1.2020</deadline>
-</only-for-course-variant>
-
-<only-for-course-variant variant="kesa-dl">
-  <deadline>8.7.2020</deadline>
-</only-for-course-variant>
-
-<only-for-course-variant variant="kesa-ohja-dl">
-  <deadline>8.7.2020</deadline>
-</only-for-course-variant>
 
 <only-for-not-logged-in>
   <deadline>Kirjaudu sisään nähdäksesi deadlinen tälle osalle</deadline>
 </only-for-not-logged-in>
 
 
-Kurssimateriaalin kahdeksannessa osassa tutustutaan hajautustaulun käyttöön. Kahdeksannesta osasta alkava Ohjelmoinnin jatkokurssi (TKT-10003) on suoraan jatkoa materiaalin seitsemän ensimmäistä osaa kattavaan kurssin Ohjelmoinnin perusteet (TKT-10002).
+Kurssimateriaalin kahdeksannessa osassa tutustutaan hajautustaulun käyttöön. Kahdeksannesta osasta alkava Ohjelmoinnin jatkokurssi (TKT-10003) on suoraan jatkoa materiaalin seitsemän ensimmäistä osaa kattavaan kurssin Ohjelmoinnin perusteet (TKT-10002). Jos aloitat kurssin tekemisen tästä puolestavälistä lue ohjeistus ohjelmointiympäristön asentamisesta ja tehtävien palauttamisesta. Kun seuraat ohjeita valitse organisaatioksi MOOC ja kurssiksi Ohjelmoinnin MOOC 2020, Ohjelmoinnin jatkokurssi. Ohjeet löydät täältä: https://www.mooc.fi/fi/installation/netbeans.
 
 <please-login></please-login>
 
-<text-box variant="hint" name="Jos tulet kurssille tässä vaiheessa mukaan">
+<text-box variant="hint" name="Tärkeää: Edelliseltä kurssilta jatkokurssille vaihtaminen">
 
-Kurssin ohjelmointitehtäviä tehdään Test My Code (TMC) -järjestelmässä. Ohjeita TMC-järjestelmän käyttöönottoon löytyy täältä: [https://www.mooc.fi/fi/installation/netbeans](https://www.mooc.fi/fi/installation/netbeans).
+Ennen kuin voit aloittaa aikataulullisen ohjelmoinnin jatkokurssin, sinun täytyy:
 
-Mikäli et ole osallistunut kurssiin ensimmäisestä osasta lähtien, vaan tulet mukaan vain Ohjelmoinnin jatkokurssia vastaavalle osalle, valitse TMC:n Settings-valikosta kurssi "Ohjelmoinnin MOOC 2020 - Aloitan osasta 8" tai "Ohjelmoinnin MOOC 2020 - Aloitan osasta 8 (aikatauluton)", riippuen siitä haluatko tehdä kurssin aikatauluttomana. Lisäksi valitse tämän materiaalin asetuksien kohdan "Minkä kurssin version pisteet ja kolikot haluat nähdä?" vaihtoehto "Aloitan kurssin osasta 8". Muista myös kerrata materiaalin osat 1-7.
+1. Valita täman kurssisivun oikeasta ylälaidasta löytyvästä asetuksista kurssiksi Ohjelmoinnin MOOC 2020, Ohjelmoinnin jatkokurssi.
+
+2. Valita Netbeanssista kurssiksi Ohjelmoinnin jatkokurssi. Saat tämän tehtyä valitsemalla Netbeanssin ylävalikosta `TMC` -> `Settings` ja painamalla kurssin kohdalta `Change`.
+
+Jos haluat tehdä kurssin tästä osasta aikatauluttoman version, voit valita näissä kohdissa kurssiksi Aikatauluton Ohjelmoinnin MOOC, Ohjelmoinnin jatkokurssi. Huomaathan kuitenkin että aikatauluttomasta kurssista ei voi saada opiskelupaikkaa.
+
+Jos et tee tätä vaihtoa, Netbeans ei tarjoa uusia tehtäväpohjia ja pistevisuaalisaatio näyttää edellisen kurssin pisteitä.
 
 </text-box>
 
