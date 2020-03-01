@@ -19,7 +19,7 @@ hidden: true
 </only-for-not-logged-in>
 
 
-Kurssimateriaalin kahdeksannessa osassa tutustutaan hajautustaulun käyttöön. Kahdeksannesta osasta alkava Ohjelmoinnin jatkokurssi (TKT-10003) on suoraan jatkoa materiaalin seitsemän ensimmäistä osaa kattavaan kurssin Ohjelmoinnin perusteet (TKT-10002). Jos aloitat kurssin tekemisen tästä puolestavälistä lue ohjeistus ohjelmointiympäristön asentamisesta ja tehtävien palauttamisesta. Kun seuraat ohjeita valitse organisaatioksi MOOC ja kurssiksi Ohjelmoinnin MOOC 2020, Ohjelmoinnin jatkokurssi. Ohjeet löydät täältä: https://www.mooc.fi/fi/installation/netbeans.
+Kurssimateriaalin kahdeksannessa osassa tutustutaan hajautustaulun käyttöön. Kahdeksannesta osasta alkava Ohjelmoinnin jatkokurssi (TKT-10003) on suoraan jatkoa materiaalin seitsemän ensimmäistä osaa kattavaan kurssin Ohjelmoinnin perusteet (TKT-10002).
 
 <please-login></please-login>
 
@@ -27,13 +27,19 @@ Kurssimateriaalin kahdeksannessa osassa tutustutaan hajautustaulun käyttöön. 
 
 Ennen kuin voit aloittaa aikataulullisen ohjelmoinnin jatkokurssin, sinun täytyy:
 
-1. Valita täman kurssisivun oikeasta ylälaidasta löytyvästä asetuksista kurssiksi Ohjelmoinnin MOOC 2020, Ohjelmoinnin jatkokurssi.
+1. Valita täman kurssisivun oikeasta ylälaidasta löytyvästä asetuksista kurssiksi `Ohjelmoinnin MOOC 2020, Ohjelmoinnin jatkokurssi`.
 
 2. Valita Netbeanssista kurssiksi Ohjelmoinnin jatkokurssi. Saat tämän tehtyä valitsemalla Netbeanssin ylävalikosta `TMC` -> `Settings` ja painamalla kurssin kohdalta `Change`.
 
 Jos haluat tehdä kurssin tästä osasta aikatauluttoman version, voit valita näissä kohdissa kurssiksi Aikatauluton Ohjelmoinnin MOOC, Ohjelmoinnin jatkokurssi. Huomaathan kuitenkin että aikatauluttomasta kurssista ei voi saada opiskelupaikkaa.
 
 Jos et tee tätä vaihtoa, Netbeans ei tarjoa uusia tehtäväpohjia ja pistevisuaalisaatio näyttää edellisen kurssin pisteitä.
+
+</text-box>
+
+<text-box variant="hint" name="Jos aloitat Ohjelmoinnin MOOCin tästä kohtaa">
+
+Jos aloitat kurssin tekemisen tästä puolestavälistä lue ohjeistus ohjelmointiympäristön asentamisesta ja tehtävien palauttamisesta. Kun seuraat ohjeita valitse organisaatioksi `MOOC` ja kurssiksi joko `Ohjelmoinnin MOOC 2020, Ohjelmoinnin jatkokurssi` tai `Aikataluton ohjelmoinnin MOOC 2020, Ohjelmoinnin jatkokurssi`. Ohjeet löydät täältä: https://www.mooc.fi/fi/installation/netbeans.
 
 </text-box>
 
