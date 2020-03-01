@@ -1,13 +1,19 @@
 import axios from "axios"
-import { accessToken } from "./moocfi"
+import { accessToken, getCourseVariant } from "./moocfi"
 import CourseSettings from "../../course-settings"
 
-const id = CourseSettings.default.quizzesId
+// const id = CourseSettings.default.quizzesId
 const language = CourseSettings.default.language
 
 const quizzesLanguage = language === "en" ? "en_US" : "fi_FI"
 
 export async function fetchQuizzesProgress() {
+  let id = CourseSettings.default.quizzesId
+  const courseVariant = await getCourseVariant()
+
+  if (courseVariant === "ohja-dl" || courseVariant === "ohja-nodl") {
+    id = "5c89b9b6-b8a6-4079-8c4f-a4bbc80b66a4"
+  }
   const response = await axios.get(
     `https://quizzes.mooc.fi/api/v1/courses/${id}/users/current/progress`,
     { headers: { Authorization: `Bearer ${accessToken()}` } },
@@ -16,6 +22,13 @@ export async function fetchQuizzesProgress() {
 }
 
 export async function fetchQuizNames() {
+  let id = CourseSettings.default.quizzesId
+  const courseVariant = await getCourseVariant()
+
+  if (courseVariant === "ohja-dl" || courseVariant === "ohja-nodl") {
+    id = "5c89b9b6-b8a6-4079-8c4f-a4bbc80b66a4"
+  }
+
   const response = await axios.get(
     `https://quizzes.mooc.fi/api/v1/quizzes/${id}/titles/${quizzesLanguage}`,
   )

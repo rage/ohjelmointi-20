@@ -41,8 +41,18 @@ const DropdownMenu = ({ selectedVariant, setSelectedVariant, t }) => {
           />
         }
       >
-        <MenuItem value={"dl"}>{t("withDeadlines")}</MenuItem>
-        <MenuItem value={"nodl"}>{t("noDeadlines")}</MenuItem>
+        <MenuItem value={"dl"}>
+          Aikataulutettu Ohjelmoinnin MOOC, Ohjelmoinnin perusteet
+        </MenuItem>
+        <MenuItem value={"nodl"}>
+          Aikatauluton Ohjelmoinnin MOOC, Ohjelmoinnin perusteet
+        </MenuItem>
+        <MenuItem value={"ohja-dl"}>
+          Aikataulutettu Ohjelmoinnin MOOC, Ohjelmoinnin jatkokurssi
+        </MenuItem>
+        <MenuItem value={"ohja-nodl"}>
+          Aikatauluton Ohjelmoinnin MOOC, Ohjelmoinnin jatkokurssi
+        </MenuItem>
       </Select>
     </StyledFormControl>
   )

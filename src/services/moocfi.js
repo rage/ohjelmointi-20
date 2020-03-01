@@ -231,5 +231,11 @@ async function getCourse() {
   if (courseVariant === "nodl") {
     return "ohjelmoinnin-perusteet"
   }
+  if (courseVariant === "ohja-dl") {
+    return "2020-ohjelmointi-ii"
+  }
+  if (courseVariant === "ohja-nodl") {
+    return "ohjelmoinnin-jatkokurssi"
+  }
   return CourseSettings.default.tmcCourse
 }

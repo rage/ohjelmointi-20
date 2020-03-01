@@ -10,4 +10,4 @@ Kahdeksas osa aloitti myös Ohjelmoinnin jatkokurssin. Jos tulit tässä kohtaa 
 
 Vastaa vielä lopuksi seuraavaan kahdeksannen osan osaamistavoitteita tarkastelevaan itsearviointikyselyyn.
 
-<quiz id='63dd718e-69cf-5993-bbad-cbba7dfba51c'></quiz>
+<quiz id='3d7f8b1d-8221-559d-91ab-ffbee0220842'></quiz>
