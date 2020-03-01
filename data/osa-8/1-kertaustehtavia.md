@@ -1,7 +1,7 @@
 ---
 path: '/osa-8/1-kertausta'
 title: 'Lyhyt kertaus'
-hidden: true
+hidden: false
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
