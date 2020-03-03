@@ -29,17 +29,27 @@ Jotta voit jatkaa ohjelmointitehtäviä aikatauluttomalla kurssilla siitä mihin
 
 Mikäli haluat siirtyä aikatauluttomalle kurssille, lue seuraavat ohjeet huolellisesti:
 
-1) Varmistu siitä että haluat tehdä siirtymisen nyt: Voit siirtää pisteesi VAIN KERRAN. Jos siis olet vielä mukana aikataulutetulla kurssilla, et halua siirtää pisteitäsi nyt. Tee siirto vasta, kun olet jäänyt aikataulusta jälkeen.
+1) Varmistu siitä, että haluat tehdä siirtymisen nyt: Voit siirtää pisteesi VAIN KERRAN. Jos siis olet vielä mukana aikataulutetulla kurssilla, et halua siirtää pisteitäsi nyt. Tee siirto vasta, kun olet jäänyt aikataulusta jälkeen.
 
-2) Mene sivulle [https://tmc.mooc.fi/org/mooc/courses/588/migrate\_to\_other_course/601](https://tmc.mooc.fi/org/mooc/courses/588/migrate_to_other_course/601)
+2) Jos teet Ohjelmoinnin perusteita, mene sivulle [https://tmc.mooc.fi/org/mooc/courses/588/migrate\_to\_other_course/601](https://tmc.mooc.fi/org/mooc/courses/588/migrate_to_other_course/601)
+<br>
+Jos teet Ohjelmoinnin jatkokurssia, mene sivulle [https://tmc.mooc.fi/courses/615/migrate_to_other_course/618](https://tmc.mooc.fi/courses/615/migrate_to_other_course/618)
 
-3) Lue HUOLELLA sivun ohje.
+1) Lue HUOLELLA sivun ohje.
 
-4) Vahinkojen välttämiseksi sinun tulee täyttää sivulla olevat kentät.
+2) Vahinkojen välttämiseksi sinun tulee täyttää sivulla olevat kentät.
 
-5) Kenttään "... from where. .." tulee laittaa sen kurssin tunnus, jolta siirrettävät pisteet tulevat, eli ```mooc-2020-ohjelmointi```
+3) Kenttään "... from where. .." tulee laittaa sen kurssin tunnus, jolta siirrettävät pisteet tulevat.
+<br>
+Jos teet Ohjelmoinnin perusteita, tähän kenttään tulee laittaa ```mooc-2020-ohjelmointi```
+<br>
+Jos teet Ohjelmoinnin jatkokurssia, tähän kenttään tulee laittaa ```mooc-2020-ohjelmointi-ii```
 
-6) Kenttään "... where to ..." tulee laittaa sen kurssin tunnus, jolle pisteet siirretään, eli ```mooc-ohjelmoinnin-perusteet```
+6) Kenttään "... where to ..." tulee laittaa sen kurssin tunnus, jolle pisteet siirretään.
+<br>
+Jos teet Ohjelmoinnin perusteita, tähän kenttään tulee laittaa ```mooc-ohjelmoinnin-perusteet```
+<br>
+Jos teet Ohjelmoinnin jatkokurssia, tähän kenttään tulee laittaa ```mooc-ohjelmoinnin-jatkokurssi```
 
 7) Luettuasi vielä kerran sivun yläreunan tekstit, valitse ruutu "I've read..."
 
@@ -51,7 +61,11 @@ Mikäli haluat siirtyä aikatauluttomalle kurssille, lue seuraavat ohjeet huolel
 
 11) Suosittelemme että suljet aikataulullisen kurssin tehtävät TMCBeansista. Tämä onnistuu valitsemalla tehtäväpohjat vasemman reunan sivupalkista, klikkaamalla sitä hiiren toissijaisella painikkeella ja valitsemalla "close". Tämä ei poista tehtäviä lopullisesti, vaan voit tarvittaessa vielä tarkastella niitä uudelleen. Sulkemista suositellaan, koska aikatauluttoman ja -taulullisen kurssin tehtävillä on tismalleen samat nimet. Tämän vuoksi on helppoa vahingossa tehdä väärän kurssin tehtäviä.
 
-12) Vaihda TMCBeansin TMC-asetuksista kurssiksi aikatauluton versio. TMC-asetuksiin pääsee käsiksi painamalla TMCBeansin ylävalikosta "TMC", ja avautuvasta listasta "Settings". Vaihda kurssiksi "Aikatauluton Ohjelmoinnin MOOC, Ohjelmoinnin perusteet".
+12) Vaihda TMCBeansin TMC-asetuksista kurssiksi aikatauluton versio. TMC-asetuksiin pääsee käsiksi painamalla TMCBeansin ylävalikosta "TMC", ja avautuvasta listasta "Settings".
+<br>
+Jos teet Ohjelmoinnin perusteita, vaihda kurssiksi "Aikatauluton Ohjelmoinnin MOOC, Ohjelmoinnin perusteet".
+<br>
+Jos teet Ohjelmoinnin jatkokurssia, vaihda kurssiksi "Aikatauluton Ohjelmoinnin MOOC, Ohjelmoinnin jatkokurssi".
 
 13) Lataa TMCBeansin tarjoamat uudet tehtäväpohjat. TMCBeans saattaa tässä yhteydessä ladata tyhjiä tehtäväpohjia myös jo aiemmin tekemillesi aikatauluttoman kurssin tehtäville. Tarkista TMC-profiilistasi (http://tmc.mooc.fi/participants/me), mitkä tehtävät voit jättää huomiotta. Jos TMCBeans ei tarjoa uusia tehtäväpohjia, paina yläpalkin TMC-valikosta "Download/update exercises".
 
