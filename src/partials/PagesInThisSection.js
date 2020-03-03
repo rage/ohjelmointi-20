@@ -36,7 +36,6 @@ const Page = styled.li`
       color: white !important;
     }
   `}
-
   :hover {
     background-color: #f5ebeb;
     color: black;

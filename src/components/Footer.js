@@ -6,6 +6,7 @@ import { OutboundLink } from "gatsby-plugin-google-analytics"
 import { Link } from "gatsby"
 import { withTranslation } from "react-i18next"
 import withSimpleErrorBoundary from "../util/withSimpleErrorBoundary"
+import CourseSettings from "../../course-settings"
 
 import UHLogo from "../images/uh-logo.png"
 import MoocfiLogo from "../images/moocfi-logo-bw.png"
@@ -105,7 +106,7 @@ class Footer extends React.Component {
             <StyledCardContent>
               <GithubContainer>
                 <OutboundLink
-                  href="https://github.com/rage/ohjelmointi-20"
+                  href={CourseSettings.githubUrl}
                   target="_blank"
                   rel="noopener noreferrer"
                 >

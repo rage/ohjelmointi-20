@@ -61,7 +61,7 @@ class PointsBalloonContent extends React.Component {
   async componentDidMount() {
     this.setState({ render: true })
     try {
-      let data = await fetchProgress(this.context)
+      let data = await fetchProgress(this.props.t)
       let userDetails = await getCachedUserDetails()
       const appliesForStudyRight =
         userDetails?.extra_fields?.applies_for_study_right === "t"

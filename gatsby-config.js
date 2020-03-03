@@ -1,7 +1,7 @@
 const red = require("@material-ui/core/colors/red").default
 const blue = require("@material-ui/core/colors/red").default
 
-const CourseSettings = require('./course-settings').default
+const CourseSettings = require('./course-settings')
 
 module.exports = {
   siteMetadata: {

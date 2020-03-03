@@ -13,9 +13,9 @@ const introductionCourseGroups = [
   "osa07",
 ]
 
-export async function fetchProgress() {
+export async function fetchProgress(t) {
   // await fetchQuizzesProgress()
-  const serviceIdentifiers = ["Ohjelmointitehtävät", "Kyselyt"]
+  const serviceIdentifiers = [t("programmingService"), t("quizService")]
   const progressesCollection = await Promise.all([
     fetchProgrammingProgress(),
     fetchQuizzesProgress(),
@@ -37,16 +37,10 @@ export async function fetchProgress() {
   )
   const toBeDeleted = []
   Object.entries(progressByGroup).forEach(([group, serviceEntries]) => {
-    if (!Object.keys(serviceEntries).find(o => o === "Ohjelmointitehtävät")) {
+    if (!Object.keys(serviceEntries).find(o => o === t("programmingService"))) {
       toBeDeleted.push(group)
     }
   })
-  if (
-    currentCourseVariant === "ohja-dl" ||
-    currentCourseVariant === "ohja-nodl"
-  ) {
-    introductionCourseGroups.forEach(group => toBeDeleted.push(group))
-  }
   toBeDeleted.forEach(o => {
     delete progressByGroup[o]
   })

@@ -3,7 +3,7 @@ import withSimpleErrorBoundary from "../util/withSimpleErrorBoundary"
 import CourseSettings from "../../course-settings"
 
 const WorkShopSchedule = ({ slug }) => {
-  const language = CourseSettings.default.language
+  const language = CourseSettings.language
   return (
     <iframe
       src={`https://study.cs.helsinki.fi/pajat/api/v2/${slug}/current?name=false&lang=${language}`}

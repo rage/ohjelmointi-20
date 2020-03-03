@@ -2,13 +2,13 @@ import axios from "axios"
 import { accessToken, getCourseVariant } from "./moocfi"
 import CourseSettings from "../../course-settings"
 
-// const id = CourseSettings.default.quizzesId
-const language = CourseSettings.default.language
+// const id = CourseSettings.quizzesId
+const language = CourseSettings.language
 
 const quizzesLanguage = language === "en" ? "en_US" : "fi_FI"
 
 export async function fetchQuizzesProgress() {
-  let id = CourseSettings.default.quizzesId
+  let id = CourseSettings.quizzesId
   const courseVariant = await getCourseVariant()
 
   if (courseVariant === "ohja-dl" || courseVariant === "ohja-nodl") {
@@ -22,7 +22,7 @@ export async function fetchQuizzesProgress() {
 }
 
 export async function fetchQuizNames() {
-  let id = CourseSettings.default.quizzesId
+  let id = CourseSettings.quizzesId
   const courseVariant = await getCourseVariant()
 
   if (courseVariant === "ohja-dl" || courseVariant === "ohja-nodl") {

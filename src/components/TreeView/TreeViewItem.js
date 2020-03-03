@@ -44,7 +44,6 @@ const NavigationLink = styled(GatsbyLink)`
     border-color: #f75b4b !important;
     background-color: #edeaea;
   `}
-
   :hover {
     text-decoration: none;
     color: black;

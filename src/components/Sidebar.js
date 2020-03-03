@@ -94,9 +94,9 @@ const MenuExpanderWrapper = styled.div`
   }
 `
 
-var content2 = CourseSettings.default.sidebarEntries
+var content2 = CourseSettings.sidebarEntries
 
-var futurePages = CourseSettings.default.sidebarFuturePages
+var futurePages = CourseSettings.sidebarFuturePages
 
 const MobileWrapper = styled.div`
   @media only screen and (max-width: ${SMALL_MEDIUM_BREAKPOINT}) {
@@ -135,7 +135,7 @@ class Sidebar extends React.Component {
     )
     let content = content2.concat(edges)
     content = content.concat(futurePages)
-    if (CourseSettings.default.splitCourses) {
+    if (CourseSettings.splitCourses) {
       let middlepoint = content.findIndex(o => o.title === "Osa 7")
       content.splice(middlepoint + 1, 0, {
         separator: true,
@@ -165,7 +165,7 @@ class Sidebar extends React.Component {
           </Button>
         </MenuExpanderWrapper>
         <SidebarContainer mobileMenuOpen={this.props.mobileMenuOpen}>
-          <Brand>{CourseSettings.default.name}</Brand>
+          <Brand>{CourseSettings.name}</Brand>
           <TreeViewContainer>
             <TreeView data={content} />
           </TreeViewContainer>
