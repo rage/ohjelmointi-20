@@ -731,7 +731,7 @@ System.out.println(arvo);
   10
 </sample-output>
 
-Seuraava esimerkki kuvaa rekisterinumeroiden bongausten laskemiseen käytettävää luokkaa. Metodeissa metodeissa `lisaaBongaus` ja `montakoKertaaBongattu` tapahtuu automaattinen tyyppimuunnos.
+Seuraava esimerkki kuvaa rekisterinumeroiden bongausten laskemiseen käytettävää luokkaa. Metodeissa `lisaaBongaus` ja `montakoKertaaBongattu` tapahtuu automaattinen tyyppimuunnos.
 
 
 ```java
@@ -753,7 +753,7 @@ public class Rekisteribongauslaskuri {
     }
 
     public int montakoKertaaBongattu(String bongattu) {
-        this.bongatut.get(bongattu);
+        return this.bongatut.get(bongattu);
     }
 }
 ```
