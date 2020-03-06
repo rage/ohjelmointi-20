@@ -39,6 +39,7 @@ Tentti ilmestyy tälle sivulle 7.3.2020 klo 08:00:
 * Tenttivastaukset tarkistetaan plagoinnintunnistusohjelmalla. Huijaus johtaa aina vähintään tenttisuorituksen hylkäämiseen, mahdollisesti myös kurssilta poistamiseen.
 * Tenttikysymykset muistuttavat kurssimateriaalin tehtäviä - tenttiin valmistautumiseksi kannattaa siis kertailla materiaalia.
 * Kurssin tulokset tulevat kokeen jälkeen sähköpostitse opintopisteohjeiden kera.
+* Pulmatilanteiden varalta kurssin ohjaajat päivystävät kurssin Telegram-kanavalla. Huomaa kuitenkin, että päivystys alkaa vasta klo 10.00.
 
 Suosittelemme kaikille kurssin tekijöille tentin suorittamista. Tentin suorittamalla saat opintopisteet ja halutessasi virallisen todistuksen kurssin suorituksesta.
 
