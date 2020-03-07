@@ -35,7 +35,7 @@ Tentti ilmestyy tälle sivulle 7.3.2020 klo 08:00:
 * Tenttiin kirjaudutaan käyttäen normaaleja mooc.fi-tunnuksia.
 * Tenttivastaukset kirjoitetaan ja lähetetään Netbeansin avulla samoin kuin kurssitehtävätkin.
 * Tarkemmat ohjeet vastausten lähettämisestä löytyvät tenttisivulta.
-* Tentissä **ei** saa tehdä yhteistyötä eikä kopioida valmiita vastauksia. Normaaleja tiedonhakukeinoja saa käyttää.
+* Tentissä **ei** saa tehdä yhteistyötä eikä kopioida valmiita vastauksia. **Normaaleja tiedonhakukeinoja saa käyttää.**
 * Tenttivastaukset tarkistetaan plagoinnintunnistusohjelmalla. Huijaus johtaa aina vähintään tenttisuorituksen hylkäämiseen, mahdollisesti myös kurssilta poistamiseen.
 * Tenttikysymykset muistuttavat kurssimateriaalin tehtäviä - tenttiin valmistautumiseksi kannattaa siis kertailla materiaalia.
 * Kurssin tulokset tulevat kokeen jälkeen sähköpostitse opintopisteohjeiden kera.
