@@ -1,7 +1,7 @@
 ---
 path: '/osa-9/1-perinta'
 title: 'Object ja luokan periminen'
-hidden: true
+hidden: false
 ---
 
 
@@ -694,12 +694,12 @@ Mitä tarkalleenottaen tapahtuu kuin kolmiulotteiselle pisteelle kutsutaan toStr
 Metodikutsun aikaansaama toimintoketju siis on monivaiheinen. Periaate on kuitenkin selkeä: suoritettavan metodin määrittelyä etsitään ensin olion todellisen tyypin määrittelystä ja jos sitä ei löydy edetään yliluokkaan. Ja jos yliluokastakaan ei löydy metodin toteutusta siirrytään etsimään yliluokan yliluokasta jne...
 
 
-<quiz id="e01e4834-7a07-593f-a947-76438207f123"></quiz>
+<quiz id="f3ad5289-b7da-5edb-8db4-bafef2f413db"></quiz>
 
-<quiz id="2069c5c8-d96f-5039-975b-23bce2a5afe7"></quiz>
+<quiz id="ba478fc5-772b-5438-abbc-1d9519c345d8"></quiz>
 
 
-<quiz id="24586d08-03c4-5cdd-bb03-c54ffc48dd74"></quiz>
+<quiz id="3fea11cf-7090-5ba2-9894-6f9f17f0904b"></quiz>
 
 ## Milloin perintää kannattaa käyttää?
 

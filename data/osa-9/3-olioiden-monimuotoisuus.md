@@ -1,7 +1,7 @@
 ---
 path: '/osa-9/3-olioiden-monimuotoisuus'
 title: 'Olioiden monimuotoisuus'
-hidden: true
+hidden: false
 ---
 
 

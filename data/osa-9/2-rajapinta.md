@@ -1,7 +1,7 @@
 ---
 path: '/osa-9/2-rajapinta'
 title: 'Rajapinta'
-hidden: true
+hidden: false
 ---
 
 
@@ -643,7 +643,7 @@ public class Tehdas {
 ```
 
 
-<quiz id="05d4f021-3a8d-5945-b87b-ba46ddf76bd8"></quiz>
+<quiz id="4da006ec-a780-5292-b7b4-afc2353e3ff9"></quiz>
 
 <text-box variant='hint' name='Luokkien välisten riippuvuuksien vähentäminen'>
 
