@@ -397,7 +397,7 @@ Exception in thread "main" java.lang.NullPointerException
 Stack tracen lukeminen tapahtuu alhaalta ylöspäin. Alimpana on ensimmäinen kutsu, eli ohjelman suoritus on alkanut luokan `Luokka` metodista `main()`. Luokan `Luokka` main-metodin rivillä 29 on kutsuttu metodia `tulosta()`. Metodin `tulosta` rivillä 43 on tapahtunut poikkeus `NullPointerException`. Poikkeuksen tiedot ovatkin hyvin hyödyllisiä virhekohdan selvittämisessä.
 
 
-<quiz id="6c92afe8-439b-542b-9c5d-f7a0f9b35516"></quiz>
+<quiz id="661b5f3b-05cd-55a6-a8b7-fada929a7d6b"></quiz>
 
 
 <programming-exercise name='Sensorit ja lämpötila (4 osaa)' tmcname='osa11-Osa11_12.SensoritJaLampotila'>
