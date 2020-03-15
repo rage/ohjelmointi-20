@@ -5,11 +5,11 @@ overview: true
 hidden: false
 ---
 
-<only-for-course-variant variant="dl">
+<only-for-course-variant variant="ohja-dl">
   <deadline>16.3.2020</deadline>
 </only-for-course-variant>
 
-<only-for-course-variant variant="nodl">
+<only-for-course-variant variant="ohja-nodl">
   <deadline>4.1.2020</deadline>
 </only-for-course-variant>
 
