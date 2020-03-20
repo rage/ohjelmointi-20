@@ -27,7 +27,7 @@ Kurssimateriaalin seitsemännessä osassa käsitellään yleisiä ohjelmointipar
 
 Tentti ilmestyy tälle sivulle 7.3.2020 klo 08:00:
 
-<a href="https://exams.mooc.fi/">https://exams.mooc.fi/</a>
+<a href="https://exams.mooc.fi/fi">https://exams.mooc.fi/fi</a>
 
 * Aikaa tentin tekemiseen on **neljä tuntia**. Jos sinulla on erikseen annettu tenttin lisäaikaa, aikaa on viisi tuntia. Tällaisessa tapauksessa sinun tulee valita tentistä lisäajallinen versio (molemmat tentit löytyvät saman linkin takaa).
 * Tentti päättyy viimeistään klo 22.00. Jos haluat käyttää tenttiin maksimiajan, aloita se viimeistään klo 18.00.
