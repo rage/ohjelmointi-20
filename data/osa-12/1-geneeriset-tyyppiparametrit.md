@@ -12,8 +12,6 @@ hidden: true
 
 </text-box>
 
-<quiz id='1e64d8bd-8a55-524f-a3e8-e06570290b2b'></quiz>
-
 
 Olemme listoihin tutustumisesta lähtien kertoneet tietorakenteille niiden sisältämän arvon tyypin. Esimerkiksi merkkijono-olioita sisältävä lista on esitelty muodossa `ArrayList<String>` ja merkkijonoja avaimina ja arvoina sisältävä hajautustaulu on esitelty muodossa `HashMap<String, String>`. Miten ihmeessä luokan voi toteuttaa niin, että luokka voi sisältää annetun tyyppisiä olioita?
 
