@@ -1,7 +1,7 @@
 ---
 path: '/osa-11/5-yhteenveto'
 title: 'Yhteenveto'
-hidden: true
+hidden: false
 ---
 
 Ohjelmistojen kehittäjät kommunikoivat toistensa kanssa monilla tavoilla. Ehkäpä tärkein kommunikointitapa on jokapäiväinen keskustelua, piirtämistä, ja ideointia sisältävä vuorovaikutus. Ohjelmistokehittäjät kommunikoivat myös tuotostensa kautta. Ohjelman lähdekoodi kommunikoi ohjelman tarkoituksen, ainakin silloin kun se on kirjoitettu ymmärrettävällä tavalla. Korkeamman abstraktiotason kommunikoinnissa käytetään erilaisia kaavioita, joista luokkakaaviot ovat eräs paljon käytetty kaaviotyyppi. Luokkakaaviot tarjoavat korkean tason kuvan ohjelman rakenteesta. Tässä osassa tutustuit luokkakaavioihin.
