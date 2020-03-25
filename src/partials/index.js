@@ -66,6 +66,7 @@ import OnlyForNotLoggedIn from "./OnlyForNotLoggedIn"
 import Points from "./Points"
 import GoogleFormLink from "./GoogleFormLink"
 import WorkshopSchedule from "./WorkshopSchedule"
+import Summary from "./Summary"
 
 const mapping = {
   test: Test,
@@ -110,6 +111,7 @@ const mapping = {
   h6: H6,
   hr: Hr,
   points: Points,
+  summary: Summary,
 }
 
 export default () => {
