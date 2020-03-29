@@ -10,9 +10,8 @@ hidden: false
 </only-for-course-variant>
 
 <only-for-course-variant variant="ohja-nodl">
-  <deadline>4.1.2020</deadline>
+  <deadline>Ei deadlineä</deadline>
 </only-for-course-variant>
-
 
 <only-for-not-logged-in>
   <deadline>Kirjaudu sisään nähdäksesi deadlinen tälle osalle</deadline>
