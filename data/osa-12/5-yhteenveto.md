@@ -1,7 +1,7 @@
 ---
 path: '/osa-12/5-yhteenveto'
 title: 'Yhteenveto'
-hidden: true
+hidden: false
 ---
 
 Listat ja hajautustaulut ovat ohjelmoinnissa eniten käytettyjä tietorakenteita. Tietojenkäsittelytieteilijän (ja ohjelmoijan) yleissivistykseen kuuluu näiden tietorakenteiden hyvien ja huonojen puolien ymmärtäminen sekä niiden sisäisen toteutuksen pääpiirteinen tunteminen. Tässä osassa tutustuit listan ja hajautustaulun toteutukseen Javalla -- opit samalla myös toteuttamaan tyyppiparametrien avulla luokkia, joiden sisältämän tiedon tyyppi määräytyy vasta olion luomisvaiheessa. Näiden tietorakenteiden lisäksi harjoittelit myös satunnaislukujen käyttöä sekä moniulotteisen tiedon käsittelyä.
