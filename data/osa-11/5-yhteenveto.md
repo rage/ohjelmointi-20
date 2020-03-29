@@ -8,4 +8,6 @@ Ohjelmistojen kehittäjät kommunikoivat toistensa kanssa monilla tavoilla. Ehk�
 
 Harjoittelit lisäksi poikkeustilanteisiin varautumista. Poikkeustilanteet ovat tilanteita, joissa ohjelman suoritus on päätynyt tilaan, missä sen ei pitäisi olla. Tällaiseen tulee varautua, koska ohjelma voi muuten kaatua. Kertasit myös tiedostojen lukemista ja tutustuit tiedostoihin kirjoittamiseen. Tiedostot säilyvät tietokoneen pysyväismuistissa, josta ne on löydettävissä myös vaikka tietokone sammuisi välillä. Vaikka käytämme erilaisia ohjelmistoja, jotka piilottavat tiedostojen käsittelyn, ovat tiedostot -- sekä niiden lukeminen että niihin kirjoittaminen -- krittinen osa tietoa käsitteleviä digitaalisia järjestelmiä.
 
+Vastaa vielä lopuksi seuraavaan yhdennentoista osan osaamistavoitteita tarkastelevaan itsearviointikyselyyn.
+
 <quiz id="1fe72652-9e18-5ec2-85b0-af6147b749c9"></quiz>
