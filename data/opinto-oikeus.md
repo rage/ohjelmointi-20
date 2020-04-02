@@ -42,7 +42,7 @@ Kaikki koetilaisuudet järjestetään Helsingin yliopiston Kumpulan kampuksella.
 
 #### Koeajat
 
-Näyttökoetilaisuuksia järjestetään 27.4.-15.5. arkipäivisin.
+Koronavirustilanteen takia näyttökoe järjestetään verkossa. Koepäivä on *tiistaina 5.5.2020*.
 
 Koeaikoja tulee olemaan aamusta iltaan. Varaa kokeeseen aikaa kolme tuntia.
 
