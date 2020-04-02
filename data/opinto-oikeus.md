@@ -52,11 +52,9 @@ Kokeeseen saa kutsun sähköpostitse siihen sähköpostiosoitteeseen, jolla reki
 
 Kutsu lähetetään kaikille, jotka ovat saaneet vähintään 90% osien 1-13 ohjelmointitehtävien pisteistä ja jotka ovat valinneet kurssimateriaalin Profiili-asetuksista kohdan "Aion hakea aikataulutetun Ohjelmoinnin MOOCin kautta opinto-oikeutta Helsingin yliopistoon." Tämän pääsee asettamaan painamalla sivuston yläreunasta omaa nimeään/sähköpostiosoitettaan. Tarvittava asetus löytyy avautuvan Profiili-sivun "Opiskelijan tiedot"-osasta.
 
-Paikkoja yksittäisiin näyttökoeaikoihin on rajoitetusti, joten teethän osan 13 tehtävät nopeasti mikäli tiedät vaihtoehtojesi olevan rajatut.
-
 Kutsussa on ohjeet, miten voi ilmoittautua koetilaisuuteen.
 
-**Huomioi, että sinun on saatava vähintään 90% osan 14 ohjelmointitehtävien pisteistä ennen valitsemaasi näyttökoepäivää.**
+**Huomioi, että sinun on saatava vähintään 90% osan 14 ohjelmointitehtävien pisteistä ennen näyttökoepäivää.**
 
 #### Edellisten vuosien näyttökoetehtäviä
 
