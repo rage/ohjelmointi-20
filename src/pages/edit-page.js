@@ -81,7 +81,7 @@ const EditPage = ({ t }) => {
           >
             <Button color="primary" variant="contained">
               {t("editPageButtonText")}
-              {path.substr(1)}
+              {path}
             </Button>
           </OutboundLink>
         </center>
