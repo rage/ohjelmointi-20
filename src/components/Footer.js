@@ -17,7 +17,6 @@ import {
   faYoutube,
   faGithub,
 } from "@fortawesome/free-brands-svg-icons"
-import Button from "./Button"
 
 const StyledIcon = styled(FontAwesomeIcon)`
   color: black;
@@ -38,10 +37,6 @@ const GithubContainer = styled.div`
     align-items: center;
     justify-content: center;
   }
-`
-
-const ButtonContainer = styled.div`
-  padding: 1rem 0;
 `
 
 const FooterWrapper = styled.footer`
@@ -101,8 +96,6 @@ class Footer extends React.Component {
   constructor(props) {
     super(props)
     this.t = this.props.t
-    this.location =
-      typeof window !== `undefined` ? window.location.pathname : null
   }
   render() {
     return (
@@ -125,14 +118,6 @@ class Footer extends React.Component {
                   <div>{this.t("footer-src")}</div>
                 </OutboundLink>
               </GithubContainer>
-              <ButtonContainer>
-                <Button to="/report-issue">
-                  {this.t("footer-report-issue")}
-                </Button>
-                <Button to={`/edit-page?path=${this.location}`}>
-                  {this.t("footer-edit-page")}
-                </Button>
-              </ButtonContainer>
               <ContentContainer>
                 {this.t("makers")}{" "}
                 <OutboundLink
