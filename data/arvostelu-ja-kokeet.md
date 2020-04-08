@@ -13,7 +13,10 @@ Ohjelmoinnin perusteita vastaava koe suoritetaan materiaalin osien 1-7 jälkeen.
 
 Molempia kokeita järjestetään useana eri päivänä. Voit osallistua kokeisiin minä tahansa koepäivänä. Kurssilla saa osallistua halutessaan useampaan kokeeseen. Opintorekisteriin jää paras suoritus.
 
-Osien 1-7 ensimmäinen koepäivä on 7.3. Muita koepäiviä päivitetään tänne keväällä.
+## Tulevat koepäivät
+
+* Ohjelmoinnin jatkokurssi (osat 8-14): 16.5.2020
+* Ohjelmoinnin perusteet (osat 1-7): 23.5.2020
 
 Lisätietoa Ohjelmoinnin perusteiden kokeen järjestelystä löytyy [Osan 7 etusivulta](./osa-7).
 
