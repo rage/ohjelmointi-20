@@ -67,6 +67,7 @@ import Points from "./Points"
 import GoogleFormLink from "./GoogleFormLink"
 import WorkshopSchedule from "./WorkshopSchedule"
 import Summary from "./Summary"
+import Button from "../components/Button"
 
 const mapping = {
   test: Test,
@@ -112,6 +113,7 @@ const mapping = {
   hr: Hr,
   points: Points,
   summary: Summary,
+  button: Button,
 }
 
 export default () => {
