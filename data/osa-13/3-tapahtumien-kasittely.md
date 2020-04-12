@@ -1,7 +1,7 @@
 ---
 path: '/osa-13/3-tapahtumien-kasittely'
 title: 'Tapahtumien käsittely'
-hidden: true
+hidden: false
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>

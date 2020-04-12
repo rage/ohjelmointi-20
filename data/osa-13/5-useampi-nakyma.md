@@ -1,7 +1,7 @@
 ---
 path: '/osa-13/5-useampi-nakyma'
 title: 'Useampi näkymä'
-hidden: true
+hidden: false
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>

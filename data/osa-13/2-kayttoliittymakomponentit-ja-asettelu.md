@@ -1,7 +1,7 @@
 ---
 path: '/osa-13/2-kayttoliittymakomponentit-ja-niiden-asettelu'
 title: 'Käyttöliittymäkomponentit ja niiden asettelu'
-hidden: true
+hidden: false
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
