@@ -78,7 +78,8 @@ module.exports = {
               // base for generating different widths of each image.
               maxWidth: 920,
               withWebp: true,
-              wrapperStyle: "margin-bottom: 1rem;"
+              wrapperStyle: "margin-bottom: 1rem;",
+              backgroundColor: 'transparent'
             }
           },
           {

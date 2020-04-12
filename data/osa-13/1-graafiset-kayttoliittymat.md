@@ -11,6 +11,14 @@ hidden: true
 </text-box>
 
 
+<text-box variant="hint" name="Kysely paja-ohjauksesta ja tukiväylistä">
+
+Vastaa tässä kohtaa kyselyyn kurssin paja-ohjauksesta ja tukiväylistä. <google-form-link href="https://docs.google.com/forms/d/e/1FAIpQLSdxwTaddxaQZIL-H6HLT5Bcb2JflxeejIj7J8TOiXYlNoKc4A/viewform?usp=pp_url" emailfieldname="entry.733692316">Avaa kysely tätä linkkiä klikkaamalla</google-form-link>.
+
+</text-box>
+
+<quiz id="aaa140b6-87e0-4ab4-bbae-e18e694ff804"></quiz>
+
 Tutustutaan seuraavaksi graafisten käyttöliittymien luomiseen. Graafisia käyttöliittymiä luodessa hyödynnämme ensisijaisesti käyttöliittymäkirjastoja, jotka tarjoavat valmiita komponentteja kuten nappeja ja tekstikenttiä. Käyttöliittymäkirjastot hoitavat komponenttien piirtämisen puolestamme, eli meidän ei tarvitse piirtää jokaista käyttöliittymässä olevaa komponenttia ohjelmassamme -- riittää, että komponentit lisätään ohjelmaan.
 
 Siinä missä tekstikäyttöliittymissä toiminnallisuus kytketään tietyn muotoiseen syötteeseen, graafisissa käyttöliittymissä toiminnallisuus lisätään käyttöliittymäkomponentteihin. Ohjelmoija esimerkiksi lisää käyttöliittymässä olevaan nappiin metodin, joka käsittelee napin painallukseen liittyvän tapahtuman.
