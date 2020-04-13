@@ -37,6 +37,7 @@ Näin suoritat JavaFX-tehtävät paikallisesti. Nämä ohjeet toimivat, kun olet
 
 ![Pluginin lisääminen](./img/javafx-guide/add-plugin.png)
 **Huomioi, että mainClass-kohdassa pitää olla tehtävän pääluokka. Tehtävässä 13_01 se on `sovellukseni.Sovellukseni`, tehtävässä 2 se on `nappijatekstielementti.NappiJaTekstielementtiSovellus`. Muoto on siis `paketti.PääluokanNimi`.**
+6. Käynnistä TMCBeans uudestaan, jotta muutosten vaikutus varmistuu.
 5. Suorita ohjelma `javafx run`-napista. Näet tämän vaihtoehdon Navigator-välilehdellä kun painat tehtävän nimeä.
 
 ![Ohjelman suorittaminen](./img/javafx-guide/javafx-run.png)
