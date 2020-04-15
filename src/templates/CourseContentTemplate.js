@@ -87,10 +87,20 @@ export default class CourseContentTemplate extends React.Component {
       `${frontmatter.path.split(/\//g)[1].replace(/-/g, " ")}`,
     )
     const parentSectionPath = `/${frontmatter.path.split(/\//g)[1]}`
+
+    const filePath = data.page.fileAbsolutePath.substring(
+      data.page.fileAbsolutePath.lastIndexOf("/data/"),
+      data.page.fileAbsolutePath.length,
+    )
     return (
       <Fragment>
         <Helmet title={frontmatter.title} />
-        <PagesContext.Provider value={{ all: allPages, current: frontmatter }}>
+        <PagesContext.Provider
+          value={{
+            all: allPages,
+            current: { frontmatter: frontmatter, filePath: filePath },
+          }}
+        >
           <LoginStateContextProvider>
             <Layout>
               <Fragment>
@@ -124,6 +134,7 @@ export const pageQuery = graphql`
         path
         title
       }
+      fileAbsolutePath
     }
     allPages: allMarkdownRemark {
       edges {

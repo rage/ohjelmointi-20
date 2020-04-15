@@ -25,18 +25,9 @@ const EditPage = ({ t }) => {
     return b
   })(urlEnd)
 
-  var path = qs.path
-  if (path === "/") {
-    path = "/index"
-  } else if (/\/osa\-\d{1,2}$/.test(path)) {
-    path = path.concat("/index")
-  }
+  const path = qs.path
 
-  var editPath = CourseSettings.githubUrl.concat(
-    "/edit/master/data",
-    path,
-    ".md",
-  )
+  var editPath = CourseSettings.githubUrl.concat("/edit/master", path)
 
   var loginThenEditPath =
     "https://github.com/join?return_to=" + editPath + "&source=login"
