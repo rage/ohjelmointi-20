@@ -61,7 +61,7 @@ tehtävien aikarajoista EI voida joustaa lainkaan. Ehdot
 opinto-oikeuden saamiseksi päivittyvät lähempänä yhteishakua.
 Lisätietoa opinto-oikeudesta saat [täältä](/opinto-oikeus).
 
-Huomaa, että aikatauluton versio kurssista jatkuu vuoden 2011 alkuun asti.
+Huomaa, että aikatauluton versio kurssista jatkuu vuoden 2021 alkuun asti.
 
 Aikatauluttomasta versiosta ei voi hakea opinto-oikeutta, mutta sen suorittamalla voi saada opintopisteet kursseista Ohjelmoinnin perusteet ja Ohjelmoinnin jatkokurssi (5 + 5 op.)
 
