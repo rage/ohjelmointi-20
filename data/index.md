@@ -44,7 +44,9 @@ julkaistaan aina aikataulutetun kurssin jälkeen. Voit siirtyä
 aikataululliselta kurssilta aikatauluttomaan mikäli niin haluat.
 Kurssin vaihtaminen toiseen suuntaan ei ole mahdollista. Huomaa
 kuitenkin että aikatauluttomasta versiosta ei voi hakea
-opinto-oikeutta. Aikatauluton versio kurssista tulee saataville 21.1.2020.
+opinto-oikeutta. 
+
+Aikatauluton versio kurssista tulee saataville 21.1.2020. Tätä versiota voi suorittaa vuoden 2021 alkuun asti. Aikatauluttomasta versiosta ei voi hakea opinto-oikeutta, mutta sen suorittamalla voi saada opintopisteet kursseista.
 
 Kurssin osat 1-7 vastaavat kurssia Ohjelmoinnin perusteet. Osat 8-14
 vastaavat kurssia Ohjelmoinnin jatkokurssi.
@@ -61,9 +63,6 @@ tehtävien aikarajoista EI voida joustaa lainkaan. Ehdot
 opinto-oikeuden saamiseksi päivittyvät lähempänä yhteishakua.
 Lisätietoa opinto-oikeudesta saat [täältä](/opinto-oikeus).
 
-Huomaa, että aikatauluton versio kurssista jatkuu vuoden 2021 alkuun asti.
-
-Aikatauluttomasta versiosta ei voi hakea opinto-oikeutta, mutta sen suorittamalla voi saada opintopisteet kursseista Ohjelmoinnin perusteet ja Ohjelmoinnin jatkokurssi (5 + 5 op.)
 
 <table>
   <thead>
