@@ -83,7 +83,7 @@ Kun metodia launch kutsutaan, Application-luokassa sijaitseva metodi luo paramet
 
 <text-box variant='hint' name='JavaFX-ohjeet'>
 
-Jos olet Windowsilla tai JavaFX ei toimi suoraan asennuksen jälkeen, kokeile noudattaa ylimääräisiä [JavaFX-ohjeita](/javafx-ohjeet).
+Jos JavaFX ei toimi suoraan tehtävien lataamisen jälkeen, käynnistä TMCBeans uudestaan. Jos tehtävät eivät silti toimi, voit kokeilla noudattaa ylimääräisiä [JavaFX-ohjeita](/javafx-ohjeet).
 
 </text-box>
 
