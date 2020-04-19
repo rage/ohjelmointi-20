@@ -1,5 +1,5 @@
 ---
-path: '/osa-14/1-simulaatiot-ja-toistuva-piirtaminen'
+path: '/osa-15/1-simulaatiot-ja-toistuva-piirtaminen'
 title: 'Simulaatiot ja toistuva piirtäminen'
 hidden: true
 ---
