@@ -1,7 +1,7 @@
 ---
 path: '/osa-14/3-laajempi-sovellus-asteroids'
 title: 'Laajempi sovellus: Asteroids'
-hidden: true
+hidden: false
 ---
 
 

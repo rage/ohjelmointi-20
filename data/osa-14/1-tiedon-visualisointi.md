@@ -1,7 +1,7 @@
 ---
 path: '/osa-14/1-tiedon-visualisointi'
 title: 'Tiedon visualisointi'
-hidden: true
+hidden: false
 ---
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
