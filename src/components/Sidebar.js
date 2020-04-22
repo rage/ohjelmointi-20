@@ -129,12 +129,11 @@ const Sidebar = props => {
         sensitivity: "base",
       }),
     )
+    .sort((a, b) => a.sidebar_priority < b.sidebar_priority)
 
   let coursePartEdges = edges.filter(o => !o.information_page && !o.upcoming)
 
-  let informationPageEdges = edges
-    .filter(o => o.information_page)
-    .sort((a, b) => a.sidebar_priority < b.sidebar_priority)
+  let informationPageEdges = edges.filter(o => o.information_page)
 
   let upcomingPageEdges = edges
     .filter(o => o.upcoming)
