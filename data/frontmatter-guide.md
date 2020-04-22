@@ -62,7 +62,8 @@ sidebar\_priority
 
 - Ei pakollinen
 - Integer-tyyppinen
-- Tällä kentällä voi uudelleenjärjestää sivupalkin linkkejä. Sivupalkissa on oletuksena ensin information\_page-sivut, sitten muut. Sekä information\_page-sivut että muut ovat aakkosjärjestyksessä.
+- Tarkoitettu vain information\_page-sivuille
+- Tällä kentällä voi uudelleenjärjestää sivupalkin information\_page-sivujen linkkejä. Sivupalkissa on oletuksena ensin information\_page-sivut, sitten muut. Sekä information\_page-sivut että muut ovat aakkosjärjestyksessä.
 - sidebar\_priority-kentän omaavat sivut tulevat ennen muita, ja ne ovat suuruusjärjestyksessä suurimmasta pienimpään (`sidebar_priority: 5000` tulee ennen `sidebar_priority: 2000`)
 
 title
