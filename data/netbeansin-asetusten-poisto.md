@@ -3,6 +3,7 @@ path: "/netbeansin-asetusten-poisto"
 title: "NetBeansin asetusten poisto"
 hidden: false
 information_page: true
+hide_in_sidebar: true
 ---
 
 Joskus NetBeans ei toimi vanhojen asetusten takia. Tällöin on poistettava vanhat asetustiedot sisältävä kansio jotta NetBeans alkaa taas toimimaan.

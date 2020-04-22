@@ -10,32 +10,6 @@ const courseSettings = {
   tmcOrganization: "mooc",
   bannerPath: "banner.svg",
   studyRightEnabled: true,
-  sidebarEntries: [
-    {
-      title: "Tietoa kurssista",
-      path: "/",
-    },
-    {
-      title: "Arvostelu ja kokeet",
-      path: "/arvostelu-ja-kokeet",
-    },
-    {
-      title: "Mahdollisuus opinto-oikeuteen",
-      path: "/opinto-oikeus",
-    },
-    { title: "Tukiväylät", path: "/tukivaylat" },
-    {
-      title: "Opettajille ja opinto-ohjaajille",
-      path: "/opettajille",
-    },
-    {
-      title: "Usein kysytyt kysymykset",
-      path: "/usein-kysytyt-kysymykset",
-    },
-    { separator: true, title: "Ohjelmoinnin perusteet" },
-  ],
-  sidebarFuturePages: [], // { title: "Osa 14", tba: "19.4.2019" },
-  splitCourses: true,
 }
 
 module.exports = courseSettings

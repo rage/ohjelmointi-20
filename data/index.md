@@ -4,6 +4,7 @@ title: "Tietoa kurssista"
 hidden: false
 information_page: true
 banner: true
+sidebar_priority: 5000
 ---
 
 Ohjelmoinnin MOOC on kaikille avoin ja ilmainen ohjelmoinnin perusteet
@@ -44,7 +45,7 @@ julkaistaan aina aikataulutetun kurssin jälkeen. Voit siirtyä
 aikataululliselta kurssilta aikatauluttomaan mikäli niin haluat.
 Kurssin vaihtaminen toiseen suuntaan ei ole mahdollista. Huomaa
 kuitenkin että aikatauluttomasta versiosta ei voi hakea
-opinto-oikeutta. 
+opinto-oikeutta.
 
 Aikatauluton versio kurssista tulee saataville 21.1.2020. Tätä versiota voi suorittaa vuoden 2021 alkuun asti. Aikatauluttomasta versiosta ei voi hakea opinto-oikeutta, mutta sen suorittamalla voi saada opintopisteet kursseista.
 

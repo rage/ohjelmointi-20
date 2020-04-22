@@ -4,6 +4,7 @@ title: 'Osa 1'
 overview: true
 hidden: false
 ---
+
 <only-for-course-variant variant="dl">
   <deadline>20.1.2020</deadline>
 </only-for-course-variant>

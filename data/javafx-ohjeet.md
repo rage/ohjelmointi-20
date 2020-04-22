@@ -3,6 +3,7 @@ path: "/javafx-ohjeet"
 title: "JavaFX ohjeet"
 hidden: false
 information_page: true
+hide_in_sidebar: true
 ---
 
 ## JavaFX-tehtävien suorittaminen paikallisesti

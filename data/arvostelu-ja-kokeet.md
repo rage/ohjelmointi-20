@@ -3,6 +3,7 @@ path: "/arvostelu-ja-kokeet"
 title: "Arvostelu ja kokeet"
 hidden: false
 information_page: true
+sidebar_priority: 4000
 ---
 
 <notice>Huomioi, että kurssikokeet eroavat näyttökokeesta. Opinto-oikeutta (opiskelupaikkaa) voi hakea vain näyttökokeella, joka edellyttää aikataulullisen kurssin tekemisen. [Lisätietoa](./opinto-oikeus).</notice>

@@ -3,6 +3,7 @@ path: '/vaihda-aikatauluttomaan'
 title: 'Kurssin vaihto aikatauluttomaan versioon'
 hidden: false
 information_page: true
+hide_in_sidebar: true
 ---
 
 <notice>HUOMAATHAN, että aikatauluttomalta kurssilta EI VOI HAKEA yliopiston opinto-oikeutta.</notice>

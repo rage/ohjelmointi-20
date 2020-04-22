@@ -42,6 +42,10 @@ exports.createPages = ({ actions, graphql }) => {
             path
             overview
             information_page
+            separator_after
+            upcoming
+            hide_in_sidebar
+            sidebar_priority
           }
         }
       }

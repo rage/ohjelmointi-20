@@ -3,6 +3,8 @@ path: "/usein-kysytyt-kysymykset"
 title: "Usein kysytyt kysymykset"
 hidden: false
 information_page: true
+separator_after: "Ohjelmoinnin perusteet"
+sidebar_priority: 0
 ---
 
 Tässä usein kysyttyjä kysymyksiä ja ongelmia. Jos et löydä kysymykseesi vastausta täältä, voit esitttää sen [tukiväylillämme](/tukivaylat).
