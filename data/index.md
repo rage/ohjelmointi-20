@@ -18,7 +18,7 @@ tietojenkäsittelytieteen laitoksen kursseja Ohjelmoinnin perusteet ja
 Ohjelmoinnin jatkokurssi. Kurssit vastaavat yhteensä kymmentä
 opintopistettä (5+5).
 
-Keväällä 2020 Ohjelmoinnin MOOC tarjoaa mahdollisuuden
+<!--Keväällä 2020 Ohjelmoinnin MOOC tarjoaa mahdollisuuden
 opinto-oikeuteen tietojenkäsittelytieteen opintoihin Helsingin
 yliopistolla. Mikäli haet kurssin kautta opinto-oikeutta, lue kaikki
 opinto-oikeuden hakemiseen liittyvät tiedot huolellisesti. Esimerkiksi
@@ -26,7 +26,7 @@ tehtävien aikarajoista EI voida joustaa lainkaan. Ehdot
 opinto-oikeuden saamiseksi päivittyvät lähempänä yhteishakua.
 Lisätietoa opinto-oikeudesta saat [täältä](/opinto-oikeus). Vuosi 2020 on
 viimeinen vuosi, jolloin mahdollisuus opinto-oikeuteen tarjotaan tämän
-kurssin kautta.
+kurssin kautta.-->
 
 <!-- **Kurssi on käynnissä!** Luo tunnus tai kirjaudu sisään, jonka
 jälkeen valitse [Osa 1](/osa-1) navigaatiosta. -->
@@ -38,16 +38,15 @@ kannattaa varata aikaa noin 5-20 tuntia. Varaamme oikeuden aikataulun
 ja aiheiden muutoksiin, kuitenkin niin, että jokaista tehtäväsarjaa on
 mahdollista suorittaa vähintään kahden viikon ajan.
 
-Kurssista on kaksi versiota: aikataulutettu versio, jossa on
-viikoittaiset deadlinet ja aikatauluton versio, jossa tehtäviä voi
-tehdä täysin omaan tahtiin. Aikatauluttoman kurssin tehtävät
+Kurssista on kaksi versiota: aikataulutettu versio päättyi 4.5.2020.
+
+Aikatauluton versio kurssista jatkuu vuoden 2020 loppun asti.
+
+Aikatauluttoman kurssin tehtävät
 julkaistaan aina aikataulutetun kurssin jälkeen. Voit siirtyä
 aikataululliselta kurssilta aikatauluttomaan mikäli niin haluat.
-Kurssin vaihtaminen toiseen suuntaan ei ole mahdollista. Huomaa
-kuitenkin että aikatauluttomasta versiosta ei voi hakea
-opinto-oikeutta.
-
-Aikatauluton versio kurssista tulee saataville 21.1.2020. Tätä versiota voi suorittaa vuoden 2021 alkuun asti. Aikatauluttomasta versiosta ei voi hakea opinto-oikeutta, mutta sen suorittamalla voi saada opintopisteet kursseista.
+Huomaa kuitenkin että aikatauluttomasta versiosta ei voi hakea
+opinto-oikeutta, mutta sen suorittamalla voi saada opintopisteet kursseista.
 
 Kurssin osat 1-7 vastaavat kurssia Ohjelmoinnin perusteet. Osat 8-14
 vastaavat kurssia Ohjelmoinnin jatkokurssi.
