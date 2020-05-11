@@ -21,7 +21,7 @@ Molempia kokeita järjestetään useana eri päivänä. Voit osallistua kokeisii
 
 <text-box variant="hint" name="Kurssin kokeesta">
 
-**Huom!** 
+*TENTTIOHJEITA** 
 
 Tenttikysymykset ilmestyvät tälle sivulle lauantaina 16.5.2020 klo 10.00:
 
