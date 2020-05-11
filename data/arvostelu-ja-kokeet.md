@@ -19,7 +19,32 @@ Molempia kokeita järjestetään useana eri päivänä. Voit osallistua kokeisii
 * Ohjelmoinnin jatkokurssi (osat 8-14): 16.5.2020
 * Ohjelmoinnin perusteet (osat 1-7): 23.5.2020
 
-Lisätietoa Ohjelmoinnin perusteiden kokeen järjestelystä löytyy [Osan 7 etusivulta](./osa-7).
+<text-box variant="hint" name="Kurssin kokeesta">
+
+**Huom!** 
+
+Tenttikysymykset ilmestyvät tälle sivulle lauantaina 16.5.2020 klo 10.00:
+
+<a href="https://exams.mooc.fi/fi">https://exams.mooc.fi/fi</a>
+
+* Aikaa tentin tekemiseen on **neljä tuntia**. Jos sinulla on erikseen annettu tenttin lisäaikaa, aikaa on viisi tuntia. Tällaisessa tapauksessa sinun tulee valita tentistä lisäajallinen versio (molemmat tentit löytyvät saman linkin takaa).
+* Tentti päättyy viimeistään klo 22.00. Jos haluat käyttää tenttiin maksimiajan, aloita se viimeistään klo 18.00.
+* Tenttiaika alkaa siitä hetkestä kun avaat tenttisivun. Tenttiajan ulkopuolella tehtyjä suorituksia ei huomioida.
+* Tenttiin kirjaudutaan käyttäen normaaleja mooc.fi-tunnuksia.
+* Tenttivastaukset kirjoitetaan ja lähetetään Netbeansin avulla samoin kuin kurssitehtävätkin.
+* Tarkemmat ohjeet vastausten lähettämisestä löytyvät tenttisivulta.
+* Tentissä **ei** saa tehdä yhteistyötä eikä kopioida valmiita vastauksia. **Normaaleja tiedonhakukeinoja saa käyttää.**
+* Tenttivastaukset tarkistetaan plagoinnintunnistusohjelmalla. Huijaus johtaa aina vähintään tenttisuorituksen hylkäämiseen, mahdollisesti myös kurssilta poistamiseen.
+* Tenttikysymykset muistuttavat kurssimateriaalin tehtäviä - tenttiin valmistautumiseksi kannattaa siis kertailla materiaalia.
+* Kurssin tulokset tulevat kokeen jälkeen sähköpostitse opintopisteohjeiden kera.
+* Pulmatilanteiden varalta kurssin ohjaajat päivystävät kurssin Telegram-kanavalla.
+
+Tenttipohjat voi ladata Netbeansiin valmiiksi jo torstaina tai perjantaina. Tarkemmat ohjeet tulevat tälle sivulle silloin.
+
+Tentin suorittamalla saat opintopisteet ja halutessasi virallisen todistuksen kurssin suorituksesta.
+
+</text-box>
+
 
 ## Kurssin pisteytys
 
