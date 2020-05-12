@@ -68,6 +68,7 @@ import GoogleFormLink from "./GoogleFormLink"
 import WorkshopSchedule from "./WorkshopSchedule"
 import Summary from "./Summary"
 import Button from "../components/Button"
+import Vocabulary from "./Vocabulary"
 
 const mapping = {
   test: Test,
@@ -92,6 +93,7 @@ const mapping = {
   "sqltrainer-exercise": SqlTrainerExercise,
   "google-form-link": GoogleFormLink,
   "workshop-schedule": WorkshopSchedule,
+  vocabulary: Vocabulary,
   notice: Notice,
   youtube: Youtube,
   quiz: Quiz,

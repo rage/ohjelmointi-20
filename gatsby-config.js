@@ -19,7 +19,7 @@ module.exports = {
 
       }
     },
-
+    `gatsby-plugin-anchor-links`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-catch-links`,
     {
@@ -151,6 +151,9 @@ module.exports = {
     },
     {
       resolve: "gatsby-transformer-moocfi-exercises"
+    },
+    {
+      resolve: "gatsby-transformer-vocabulary"
     },
     `gatsby-plugin-top-layout`,
     {

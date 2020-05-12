@@ -9,6 +9,7 @@ separator_after: "derp"
 sidebar_priority: 1337
 title: "Frontmatter-guide"
 upcoming: "1.1."
+vocabulary_page: false
 ---
 
 ### Kaikki mahdolliset frontmatter-fieldit:
@@ -78,3 +79,9 @@ upcoming
 - String-tyyppinen
 - Jos asetettu, sivun linkki sivupalkissa on harmaana, ei klikattavissa, ja sen vieressä lukee asetettu teksti.
 - Suosittelemme, että tekstiksi asetetaan sivun julkaisupäivämäärä muodossa "pv.kk.", koska kenttä on sen verran pieni ettei vuosiluku mahdu kokonaan näkyville.
+
+vocabulary\_page
+
+- Ei pakollinen
+- Boolean-tyyppinen
+- Tarkoitettu ainoastaan sanastosivua varten. Jos tämä on asetettu, sivulla on pääsy dataan sanaston sanoista.
