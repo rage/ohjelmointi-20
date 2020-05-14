@@ -39,11 +39,39 @@ Tenttikysymykset ilmestyvät tälle sivulle lauantaina 16.5.2020 klo 10.00:
 * Kurssin tulokset tulevat kokeen jälkeen sähköpostitse opintopisteohjeiden kera.
 * Pulmatilanteiden varalta kurssin ohjaajat päivystävät kurssin Telegram-kanavalla.
 
-Tenttipohjat voi ladata Netbeansiin valmiiksi jo torstaina tai perjantaina. Tarkemmat ohjeet tulevat tälle sivulle silloin.
+Tenttipohjat voi ladata Netbeansiin valmiiksi jo torstaina tai perjantaina. Tarkemmat ohjeet löytyvät alapuolelta.
 
 Tentin suorittamalla saat opintopisteet ja halutessasi virallisen todistuksen kurssin suorituksesta.
 
 </text-box>
+
+### Valmistautuminen 16.5. olevaan tenttiin (tee tämä ennen tenttipäivää!)
+
+*  Valitse NetBeansissa valikko "TMC" ja sieltä kohta "Settings"
+
+*  Varmista että kohdassa organization on valittu organisaatio "Helsingin yliopisto". Jos näin ei ole, vaihda organisaatio "Change"-napista.
+
+*  Vaihda kurssiksi "Konekoe 16.5.2020, Ohjelmoinnin jatkokurssi"
+
+*  Paina asetusnäytöstä ok
+
+NetbBeansin pitäisi tarjota kokeen tehtäväpohjia ladattavaksi
+
+Valitse OK
+
+TMC ehdottaa tämän jälkeen kolmen tehtäväpohjan lataamista. Tehtäväpohjat ovat seuravat:
+
+* konekoe-KonekoeTehtava1 -- kokeen ensimmäistä tehtävää varten
+* konekoe-KonekoeTehtava2 -- kokeen toista tehtävää varten
+* konekoe-KonekoeTehtava3 -- kokeen kolmatta tehtävää varten
+
+Lataa tehtävät.
+
+Testaa, että tenttipohja toimii: Kirjoita johonkin tehtäväpohjaan rivi koodia, esim 
+
+`System.out.println("testi");`
+
+...ja varmista, että pystyt suorittamaan koodin. Jos saat virheen koodin suorituksesta, varmista että sinulla on uusin versio TMCBeansista. Telegramista voit kysellä lisävinkkejä. **Älä aloita tenttiä ennen kuin ympäristö toimii!!**
 
 
 ## Kurssin pisteytys
