@@ -29,11 +29,11 @@ Tenttikysymykset ilmestyvät tälle sivulle lauantaina 16.5.2020 klo 10.00:
 
 * Aikaa tentin tekemiseen on **neljä tuntia**. Jos sinulla on erikseen annettu tenttin lisäaikaa, aikaa on viisi tuntia. Tällaisessa tapauksessa sinun tulee valita tentistä lisäajallinen versio (molemmat tentit löytyvät saman linkin takaa).
 * Tentti päättyy viimeistään klo 22.00. Jos haluat käyttää tenttiin maksimiajan, aloita se viimeistään klo 18.00.
-* Tenttiaika alkaa siitä hetkestä kun avaat tenttisivun. Tenttiajan ulkopuolella tehtyjä suorituksia ei huomioida.
+* Tenttiaika alkaa siitä hetkestä kun avaat tenttisivun (eli painat Aloita tentti -linkkiä). Tenttiajan ulkopuolella tehdyt suoritukset johtavat tenttisuorituksen hylkäämiseen.
 * Tenttiin kirjaudutaan käyttäen normaaleja mooc.fi-tunnuksia.
 * Tenttivastaukset kirjoitetaan ja lähetetään Netbeansin avulla samoin kuin kurssitehtävätkin.
 * Tarkemmat ohjeet vastausten lähettämisestä löytyvät tenttisivulta.
-* Tentissä **ei** saa tehdä yhteistyötä eikä kopioida valmiita vastauksia. **Normaaleja tiedonhakukeinoja saa käyttää.**
+* Tentissä **ei** saa tehdä yhteistyötä eikä kopioida valmiita vastauksia. **Normaaleja tiedonhakukeinoja (esim. Google ja kurssimateriaali) saa käyttää.**
 * Tenttivastaukset tarkistetaan plagoinnintunnistusohjelmalla. Huijaus johtaa aina vähintään tenttisuorituksen hylkäämiseen, mahdollisesti myös kurssilta poistamiseen.
 * Tenttikysymykset muistuttavat kurssimateriaalin tehtäviä - tenttiin valmistautumiseksi kannattaa siis kertailla materiaalia.
 * Kurssin tulokset tulevat kokeen jälkeen sähköpostitse opintopisteohjeiden kera.
@@ -71,7 +71,7 @@ Testaa, että tenttipohja toimii: Kirjoita johonkin tehtäväpohjaan rivi koodia
 
 `System.out.println("testi");`
 
-...ja varmista, että pystyt suorittamaan koodin. Jos saat virheen koodin suorituksesta, varmista että sinulla on uusin versio TMCBeansista. Telegramista voit kysellä lisävinkkejä. **Älä aloita tenttiä ennen kuin ympäristö toimii!!**
+...ja varmista, että pystyt suorittamaan koodin. Jos saat virheen koodin suorituksesta, varmista että sinulla on uusin versio TMCBeansista. <a href="https://t.me/ohjelmointi20">Telegramista</a> voit kysellä lisävinkkejä. **Älä aloita tenttiä ennen kuin ympäristö toimii!!**
 
 
 ## Kurssin pisteytys
