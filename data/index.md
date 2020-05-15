@@ -158,4 +158,4 @@ koneesi kello voi olla jäljessä tai edellä, joten älä jätä tehtävien
 tekemistä ja palauttamista viime hetkeen.**
 -->
 
-Kurssille ei tarvitse ilmoittautua etukäteen saadakseen siitä opintopisteet. Voit vain aloittaa suoraan kurssin tekemisen ja opintopisteiden kirjaus hoidetaan kuhan olet päässyt kokeesta läpi.
+Kurssille ei tarvitse ilmoittautua etukäteen saadakseen siitä opintopisteet Helsingin yliopiston Avoimelta yliopistolta. Voit vain aloittaa suoraan kurssin tekemisen ja opintopisteiden kirjaus hoidetaan kuhan olet päässyt kokeesta läpi. Jos sinulla ei ole suomalaista henkilötunnusta, voit saada kesäkuusta lähtien kurssista myös sertifikaatin.
