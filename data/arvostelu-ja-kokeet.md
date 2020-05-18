@@ -16,14 +16,14 @@ Molempia kokeita järjestetään useana eri päivänä. Voit osallistua kokeisii
 
 ## Tulevat koepäivät
 
-* Ohjelmoinnin jatkokurssi (osat 8-14): 16.5.2020
-* Ohjelmoinnin perusteet (osat 1-7): 23.5.2020
+* Ohjelmoinnin perusteet (osat 1-7): 23.5.2020 klo 10 ja 22 välillä
+* Ohjelmoinnin jatkokurssi (osat 8-14): Ei vielä varmistettu
 
 <text-box variant="hint" name="Kurssin kokeesta">
 
 **TENTTIOHJEITA** 
 
-Tenttikysymykset ilmestyvät tälle sivulle lauantaina 16.5.2020 klo 10.00:
+Tenttikysymykset ilmestyvät tälle sivulle lauantaina 23.5.2020 klo 10.00:
 
 <a href="https://exams.mooc.fi/fi">https://exams.mooc.fi/fi</a>
 
@@ -39,13 +39,14 @@ Tenttikysymykset ilmestyvät tälle sivulle lauantaina 16.5.2020 klo 10.00:
 * Kurssin tulokset tulevat kokeen jälkeen sähköpostitse opintopisteohjeiden kera.
 * Pulmatilanteiden varalta kurssin ohjaajat päivystävät kurssin Telegram-kanavalla.
 
-Tenttipohjat voi ladata Netbeansiin valmiiksi jo torstaina tai perjantaina. Tarkemmat ohjeet löytyvät alapuolelta.
+Tenttipohjat voi ladata Netbeansiin valmiiksi jo torstaina tai perjantaina. Tarkemmat ohjeet tulevat tälle sivulle torstaihin mennessä.
 
 Tentin suorittamalla saat opintopisteet ja halutessasi virallisen todistuksen kurssin suorituksesta.
 
 </text-box>
 
-### Valmistautuminen 16.5. olevaan tenttiin (tee tämä ennen tenttipäivää!)
+<!--
+### Valmistautuminen 23.5. olevaan tenttiin (tee tämä ennen tenttipäivää!)
 
 *  Valitse NetBeansissa valikko "TMC" ja sieltä kohta "Settings"
 
@@ -73,6 +74,7 @@ Testaa, että tenttipohja toimii: Kirjoita johonkin tehtäväpohjaan rivi koodia
 
 ...ja varmista, että pystyt suorittamaan koodin. Jos saat virheen koodin suorituksesta, varmista että sinulla on uusin versio TMCBeansista. <a href="https://t.me/ohjelmointi20">Telegramista</a> voit kysellä lisävinkkejä. **Älä aloita tenttiä ennen kuin ympäristö toimii!!**
 
+-->
 
 ## Kurssin pisteytys
 
