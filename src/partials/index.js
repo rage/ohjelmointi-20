@@ -69,6 +69,7 @@ import WorkshopSchedule from "./WorkshopSchedule"
 import Summary from "./Summary"
 import Button from "../components/Button"
 import Vocabulary from "./Vocabulary"
+import VocabularyWord from "./Vocabulary/VocabularyWord"
 
 const mapping = {
   test: Test,
@@ -93,6 +94,7 @@ const mapping = {
   "sqltrainer-exercise": SqlTrainerExercise,
   "google-form-link": GoogleFormLink,
   "workshop-schedule": WorkshopSchedule,
+  "vocabulary-word": VocabularyWord,
   vocabulary: Vocabulary,
   notice: Notice,
   youtube: Youtube,

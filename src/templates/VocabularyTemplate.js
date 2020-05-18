@@ -84,7 +84,7 @@ export const pageQuery = graphql`
       limit: 1000
       filter: {
         frontmatter: { hidden: { ne: true } }
-        vocabularyWords: { elemMatch: { id: { regex: "/.+/" } } }
+        vocabularyWords: { elemMatch: { name: { regex: "/.+/" } } }
       }
     ) {
       edges {
@@ -95,8 +95,9 @@ export const pageQuery = graphql`
             title
           }
           vocabularyWords {
-            id
             type
+            name
+            description
             parentPagePath
           }
         }

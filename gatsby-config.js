@@ -1,7 +1,7 @@
 const red = require("@material-ui/core/colors/red").default
 const blue = require("@material-ui/core/colors/red").default
 
-const CourseSettings = require('./course-settings')
+const CourseSettings = require("./course-settings")
 
 module.exports = {
   siteMetadata: {
@@ -16,8 +16,7 @@ module.exports = {
       options: {
         path: `${__dirname}/data`,
         name: "markdown-pages",
-
-      }
+      },
     },
     `gatsby-plugin-anchor-links`,
     `gatsby-plugin-sharp`,
@@ -33,8 +32,8 @@ module.exports = {
               quotes: false,
               ellipses: false,
               backticks: false,
-              dashes: "inverted"
-            }
+              dashes: "inverted",
+            },
           },
           {
             resolve: `gatsby-remark-prismjs`,
@@ -67,8 +66,8 @@ module.exports = {
               showLineNumbers: false,
               // If setting this to true, the parser won't handle and highlight inline
               // code used in markdown i.e. single backtick code like `this`.
-              noInlineHighlight: false
-            }
+              noInlineHighlight: false,
+            },
           },
           {
             resolve: `gatsby-remark-images`,
@@ -79,15 +78,15 @@ module.exports = {
               maxWidth: 920,
               withWebp: true,
               wrapperStyle: "margin-bottom: 1rem;",
-              backgroundColor: 'transparent'
-            }
+              backgroundColor: "transparent",
+            },
           },
           {
             resolve: "gatsby-remark-external-links",
             options: {
               target: "_blank",
-              rel: "noopener noreferrer"
-            }
+              rel: "noopener noreferrer",
+            },
           },
           {
             resolve: "gatsby-remark-emojis",
@@ -105,13 +104,13 @@ module.exports = {
                 "margin-top": "1px",
                 position: "relative",
                 top: "5px",
-                width: "25px"
-              }
-            }
+                width: "25px",
+              },
+            },
           },
-          `@rstacruz/gatsby-remark-component`
-        ]
-      }
+          `@rstacruz/gatsby-remark-component`,
+        ],
+      },
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
@@ -120,8 +119,8 @@ module.exports = {
         // Puts tracking script in the head instead of the body
         head: false,
         // Setting this parameter is optional
-        anonymize: true
-      }
+        anonymize: true,
+      },
     },
     {
       resolve: `gatsby-plugin-sitemap`,
@@ -138,27 +137,28 @@ module.exports = {
               siteUrl
             }
           }
-
-          allSitePage {
+          resolve: {
+            symlinks: false
+        }  allSitePage {
             edges {
               node {
                 path
               }
             }
           }
-      }`
-      }
+      }`,
+      },
     },
     {
-      resolve: "gatsby-transformer-moocfi-exercises"
+      resolve: "gatsby-transformer-moocfi-exercises",
     },
     {
-      resolve: "gatsby-transformer-vocabulary"
+      resolve: "gatsby-transformer-vocabulary",
     },
     `gatsby-plugin-top-layout`,
     {
-      resolve: 'gatsby-plugin-material-ui',
+      resolve: "gatsby-plugin-material-ui",
     },
-    `gatsby-plugin-meta-redirect` // make sure to put last in the array
-  ]
-};
+    `gatsby-plugin-meta-redirect`, // make sure to put last in the array
+  ],
+}

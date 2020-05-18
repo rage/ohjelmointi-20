@@ -15,29 +15,64 @@ class Vocabulary extends React.Component {
 
   state = {
     render: false,
-    pages: null,
+    words: null,
   }
 
   async componentDidMount() {
     const value = this.context
-    const pages = value.all
-    this.setState({ pages, render: true })
+    const words = value.all
+      .map(page => page.words)
+      .flat()
+      .sort((a, b) => a.name.localeCompare(b.name))
+
+    let uniqueWords = []
+    words.forEach((word, i) => {
+      if (uniqueWords.filter(w => w.name === word.name).length > 0) {
+        const index = uniqueWords.findIndex(w => w.name === word.name)
+        if (word.description != null) {
+          if (uniqueWords[index].description == null) {
+            uniqueWords[index].description = word.description
+          } else if (Array.isArray(uniqueWords[index].description)) {
+            uniqueWords[index].description = [
+              ...uniqueWords[index].description,
+              word.description,
+            ]
+          } else {
+            uniqueWords[index].description = [
+              uniqueWords[index].description,
+              word.description,
+            ]
+          }
+        }
+        if (Array.isArray(uniqueWords[index].parentPagePath)) {
+          uniqueWords[index].parentPagePath = [
+            ...uniqueWords[index].parentPagePath,
+            word.parentPagePath,
+          ]
+        } else {
+          uniqueWords[index].parentPagePath = [
+            uniqueWords[index].parentPagePath,
+            word.parentPagePath,
+          ]
+        }
+      } else {
+        uniqueWords.push(word)
+      }
+    })
+
+    this.setState({ words: uniqueWords, render: true })
   }
 
   render() {
     if (!this.state.render) {
       return <div>Loading...</div>
     }
-    console.log(this.state)
+
     return (
       <WordContainer>
-        {this.state.pages &&
-          this.state.pages.map((page, i) => (
-            <div key={page.title}>
-              {page.words.map((word, i2) => {
-                return <Word index={i2} word={word} />
-              })}
-            </div>
+        {this.state.words &&
+          this.state.words.map((word, i) => (
+            <Word key={i} index={i} word={word} />
           ))}
       </WordContainer>
     )

@@ -2,7 +2,9 @@ const GraphQLString = require("gatsby/graphql").GraphQLString
 const GraphQLList = require("gatsby/graphql").GraphQLList
 const GraphQLObjectType = require("gatsby/graphql").GraphQLObjectType
 
-const vocabularyWordRegex = /<\s*vocabulary-word\s*id\s*=\s*['"]\s*([\w-]+)\s*['"]\s*\/>/gm
+const vocabularyWordRegex = /<\s*vocabulary-word\s+name\s*=\s*['"]\s*([^"]*)\s*['"]\s*>/gm
+const withDescriptionRegex = /<\s*vocabulary-word\s+name\s*=\s*['"]\s*(.*)\s*['"]\s+description\s*=\s*['"]\s*(.*)\s*['"]\s*>/gm
+const withDescriptionRegex2 = /<\s*vocabulary-word\s+description\s*=\s*['"]\s*(.*)\s*['"]\s+name\s*=\s*['"]\s*(.*)\s*['"]\s*>/gm
 
 function getMatches(string, regex, index) {
   index || (index = 1) // default to the first capturing group
@@ -10,7 +12,11 @@ function getMatches(string, regex, index) {
   var match
   while ((match = regex.exec(string))) {
     const location = match.index
-    matches.push({ match: match[index], location })
+    matches.push({
+      match: match[index],
+      description: match[index + 1],
+      location,
+    })
   }
   return matches
 }
@@ -18,10 +24,16 @@ function getMatches(string, regex, index) {
 const VocabularyWordType = new GraphQLObjectType({
   name: `VocabularyWord`,
   fields: {
-    id: {
+    name: {
       type: GraphQLString,
       resolve(details) {
-        return details.id
+        return details.name
+      },
+    },
+    description: {
+      type: GraphQLString,
+      resolve(details) {
+        return details.description
       },
     },
     type: {
@@ -48,16 +60,40 @@ exports.setFieldsOnGraphQLNodeType = ({ type }) => {
           const source = node.rawMarkdownBody || ""
           const words = getMatches(source, vocabularyWordRegex, 1).map(res => {
             return {
-              id: res.match,
+              name: res.match,
               location: res.location,
               type: "vocabularyWord",
               parentPagePath: node.frontmatter.path,
             }
           })
 
-          return words.sort(function(a, b) {
-            return a.location - b.location
+          const wordsWithDesc = getMatches(source, withDescriptionRegex, 1).map(
+            res => {
+              return {
+                name: res.match,
+                description: res.description,
+                location: res.location,
+                type: "vocabularyWord",
+                parentPagePath: node.frontmatter.path,
+              }
+            },
+          )
+
+          const wordsWithDesc2 = getMatches(
+            source,
+            withDescriptionRegex2,
+            1,
+          ).map(res => {
+            return {
+              name: res.description,
+              description: res.match,
+              location: res.location,
+              type: "vocabularyWord",
+              parentPagePath: node.frontmatter.path,
+            }
           })
+
+          return words.concat(wordsWithDesc).concat(wordsWithDesc2)
         },
       },
     }
