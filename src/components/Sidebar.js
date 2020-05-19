@@ -142,6 +142,7 @@ const Sidebar = props => {
       title: o.title,
       tba: o.upcoming,
       path: o.path,
+      separator_after: o.separator_after,
     }))
 
   let content = informationPageEdges
@@ -150,7 +151,7 @@ const Sidebar = props => {
 
   let separatorEdges = []
   content.forEach(edge => {
-    if (edge.separator_after !== null) {
+    if (edge.separator_after) {
       separatorEdges.push(edge)
     }
   })
