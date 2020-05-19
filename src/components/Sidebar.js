@@ -141,6 +141,7 @@ const Sidebar = props => {
     .map(o => ({
       title: o.title,
       tba: o.upcoming,
+      path: o.path,
     }))
 
   let content = informationPageEdges
