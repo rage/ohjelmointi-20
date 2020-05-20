@@ -16,12 +16,23 @@ Molempia kokeita järjestetään useana eri päivänä. Voit osallistua kokeisii
 
 ## Tulevat koepäivät
 
-* Ohjelmoinnin perusteet (osat 1-7): 23.5.2020 klo 10 ja 22 välillä
-* Ohjelmoinnin jatkokurssi (osat 8-14): Ei vielä varmistettu
+#### Ohjelmoinnin perusteet (Osat 1-7)
+
+* Lauantai 4.7
+* Lauantai 8.8
+* Lauantai 3.10
+* Lauantai 28.11
+
+#### Ohjelmoinnin jatkokurssi (Osat 8-14)
+
+* Lauantai 27.6
+* Lauantai 15.8
+* Lauantai 10.10
+* Lauantai 5.12
 
 <text-box variant="hint" name="Kurssin kokeesta">
 
-**TENTTIOHJEITA** 
+**TENTTIOHJEITA**
 
 Tenttikysymykset ilmestyvät tälle sivulle lauantaina 23.5.2020 klo 10.00:
 
@@ -68,7 +79,7 @@ TMC ehdottaa tämän jälkeen kolmen tehtäväpohjan lataamista. Tehtäväpohjat
 
 Lataa tehtävät.
 
-Testaa, että tenttipohja toimii: Kirjoita johonkin tehtäväpohjaan rivi koodia, esim 
+Testaa, että tenttipohja toimii: Kirjoita johonkin tehtäväpohjaan rivi koodia, esim
 
 `System.out.println("testi");`
 
