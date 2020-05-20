@@ -45,14 +45,14 @@ Tentin suorittamalla saat opintopisteet ja halutessasi virallisen todistuksen ku
 
 </text-box>
 
-<!--
+
 ### Valmistautuminen 23.5. olevaan tenttiin (tee tämä ennen tenttipäivää!)
 
 *  Valitse NetBeansissa valikko "TMC" ja sieltä kohta "Settings"
 
 *  Varmista että kohdassa organization on valittu organisaatio "Helsingin yliopisto". Jos näin ei ole, vaihda organisaatio "Change"-napista.
 
-*  Vaihda kurssiksi "Konekoe 16.5.2020, Ohjelmoinnin jatkokurssi"
+*  Vaihda kurssiksi "Konekoe 23.5., Ohjelmoinnin perusteet"
 
 *  Paina asetusnäytöstä ok
 
@@ -73,8 +73,6 @@ Testaa, että tenttipohja toimii: Kirjoita johonkin tehtäväpohjaan rivi koodia
 `System.out.println("testi");`
 
 ...ja varmista, että pystyt suorittamaan koodin. Jos saat virheen koodin suorituksesta, varmista että sinulla on uusin versio TMCBeansista. <a href="https://t.me/ohjelmointi20">Telegramista</a> voit kysellä lisävinkkejä. **Älä aloita tenttiä ennen kuin ympäristö toimii!!**
-
--->
 
 ## Kurssin pisteytys
 
