@@ -45,10 +45,16 @@ class Vocabulary extends React.Component {
           }
         }
         if (Array.isArray(uniqueWords[index].parentPagePath)) {
-          uniqueWords[index].parentPagePath = [
-            ...uniqueWords[index].parentPagePath,
-            word.parentPagePath,
-          ]
+          if (
+            !uniqueWords[index].parentPagePath.filter(
+              p => p === word.parentPagePath,
+            )
+          ) {
+            uniqueWords[index].parentPagePath = [
+              ...uniqueWords[index].parentPagePath,
+              word.parentPagePath,
+            ]
+          }
         } else {
           uniqueWords[index].parentPagePath = [
             uniqueWords[index].parentPagePath,
