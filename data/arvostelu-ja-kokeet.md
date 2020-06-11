@@ -142,7 +142,3 @@ Kokeeseen saa osallistua kun on tehnyt vähintään 25% jokaisen osan ohjelmoint
 Aikatauluttamattomassa kurssiversiossa arvostelu perustuu täysin kokeeseen. Tällä kurssin versiolla arvosteluasteikon kokonaispisteet ovat siis pelkästään koepisteet.
 
 Kokeeseen saa osallistua kun on saanut jokaisen osan ohjelmointitehtävien pisteistä vähintään 90%. -->
-
-#### Koeleikkuri
-
-Molemmissa kursseissa kokeesta tulee saada vähintään puolet kokeen pisteistä kurssin läpäiseksi.
