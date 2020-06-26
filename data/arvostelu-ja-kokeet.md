@@ -34,7 +34,7 @@ Molempia kokeita järjestetään useana eri päivänä. Voit osallistua kokeisii
 
 **TENTTIOHJEITA**
 
-Tenttikysymykset ilmestyvät tälle sivulle lauantaina 23.5.2020 klo 10.00:
+Tenttikysymykset ilmestyvät tälle sivulle lauantaina 27.6.2020 klo 10.00:
 
 <a href="https://exams.mooc.fi/fi">https://exams.mooc.fi/fi</a>
 
@@ -57,13 +57,13 @@ Tentin suorittamalla saat opintopisteet ja halutessasi virallisen todistuksen ku
 </text-box>
 
 
-### Valmistautuminen 23.5. olevaan tenttiin (tee tämä ennen tenttipäivää!)
+### Valmistautuminen 27.6. olevaan tenttiin (tee tämä ennen tenttipäivää!)
 
 *  Valitse NetBeansissa valikko "TMC" ja sieltä kohta "Settings"
 
 *  Varmista että kohdassa organization on valittu organisaatio "Helsingin yliopisto". Jos näin ei ole, vaihda organisaatio "Change"-napista.
 
-*  Vaihda kurssiksi "Konekoe 23.5., Ohjelmoinnin perusteet"
+*  Vaihda kurssiksi "Konekoe 27.06.2020 Ohjelmoinnin jatkokurssi"
 
 *  Paina asetusnäytöstä ok
 
@@ -73,9 +73,9 @@ Valitse OK
 
 TMC ehdottaa tämän jälkeen kolmen tehtäväpohjan lataamista. Tehtäväpohjat ovat seuravat:
 
-* konekoe-KonekoeTehtava1 -- kokeen ensimmäistä tehtävää varten
-* konekoe-KonekoeTehtava2 -- kokeen toista tehtävää varten
-* konekoe-KonekoeTehtava3 -- kokeen kolmatta tehtävää varten
+* Konekoe27062020-KonekoeTehtava1 -- kokeen ensimmäistä tehtävää varten
+* Konekoe27062020-KonekoeTehtava2 -- kokeen toista tehtävää varten
+* Konekoe27062020-KonekoeTehtava3 -- kokeen kolmatta tehtävää varten
 
 Lataa tehtävät.
 
