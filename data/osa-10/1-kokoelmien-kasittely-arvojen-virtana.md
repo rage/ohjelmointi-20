@@ -313,7 +313,7 @@ Alla olevassa kuvassa on kuvattu virran toimintaa. Lähtötilanteena (1) on list
 
 &nbsp;
 
-Alla vielä yllä olevan kuvan kuvaama esimerkki ohjelmakoodina. Esimerkissä virrasta luodaan uusi ArrayList-lista, johon arvot lisätään. Tämä tapahtuu viimeisellä rivillä `.collect(Collectors.toCollection(ArrayList::new));`.
+Alla vielä yllä olevan kuvan kuvaama esimerkki ohjelmakoodina. Esimerkissä virrasta luodaan uusi ArrayList-lista, johon arvot lisätään. Tämä tapahtuu viimeisellä rivillä `.collect(Collectors.toCollection(ArrayList::new));`. Huomioithan, että tässä tapauksessa metodia `mapToInt` ei kuulu käyttää.
 
 
 ```java
