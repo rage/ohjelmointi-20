@@ -147,7 +147,7 @@ public interface Tunnistettava {
 }
 ```
 
-Haluamme luoda Henkilön, joka on sekä tunnustettava että järjestettävä. Tämä onnistuu toteuttamalla molemmat rajapinnat. Alla esimerkki.
+Haluamme luoda Henkilön, joka on sekä tunnistettava että järjestettävä. Tämä onnistuu toteuttamalla molemmat rajapinnat. Alla esimerkki.
 
 
 ```java
