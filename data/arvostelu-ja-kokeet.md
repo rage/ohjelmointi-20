@@ -18,8 +18,6 @@ Molempia kokeita järjestetään useana eri päivänä. Voit osallistua kokeisii
 
 #### Ohjelmoinnin perusteet (Osat 1-7)
 
-* Lauantai 4.7
-* Lauantai 8.8
 * Lauantai 3.10
 * Lauantai 28.11
 
@@ -33,7 +31,7 @@ Molempia kokeita järjestetään useana eri päivänä. Voit osallistua kokeisii
 
 **TENTTIOHJEITA**
 
-Tenttikysymykset ilmestyvät tälle sivulle lauantaina 08.08.2020 klo 10.00:
+Tenttikysymykset ilmestyvät tälle sivulle lauantaina 15.08.2020 klo 10.00:
 
 <a href="https://exams.mooc.fi/fi">https://exams.mooc.fi/fi</a>
 
@@ -56,13 +54,13 @@ Tentin suorittamalla saat opintopisteet ja halutessasi virallisen todistuksen ku
 </text-box>
 
 
-### Valmistautuminen 08.08. olevaan tenttiin (tee tämä ennen tenttipäivää!)
+### Valmistautuminen 15.08. olevaan tenttiin (tee tämä ennen tenttipäivää!)
 
 *  Valitse NetBeansissa valikko "TMC" ja sieltä kohta "Settings"
 
 *  Varmista että kohdassa organization on valittu organisaatio "Helsingin yliopisto". Jos näin ei ole, vaihda organisaatio "Change"-napista.
 
-*  Vaihda kurssiksi "Ohjelmoinnin perusteet java, verkkotentti, 08.08.2020"
+*  Vaihda kurssiksi "Verkkotentti 15.08.2020, Ohjelmoinnin jatkokurssi, Java"
 
 *  Paina asetusnäytöstä ok
 
@@ -72,9 +70,9 @@ Valitse OK
 
 TMC ehdottaa tämän jälkeen kolmen tehtäväpohjan lataamista. Tehtäväpohjat ovat seuravat:
 
-* Verkkotentti0808-KonekoeTehtava1 -- kokeen ensimmäistä tehtävää varten
-* Verkkotentti0808-KonekoeTehtava2 -- kokeen toista tehtävää varten
-* Verkkotentti0808-KonekoeTehtava3 -- kokeen kolmatta tehtävää varten
+* Verkkotentti15082020-Tehtava1 -- kokeen ensimmäistä tehtävää varten
+* Verkkotentti15082020-Tehtava2 -- kokeen toista tehtävää varten
+* Verkkotentti15082020-Tehtava3 -- kokeen kolmatta tehtävää varten
 
 Lataa tehtävät.
 
