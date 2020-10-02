@@ -23,7 +23,6 @@ Molempia kokeita järjestetään useana eri päivänä. Voit osallistua kokeisii
 
 #### Ohjelmoinnin jatkokurssi (Osat 8-14)
 
-* Lauantai 15.8
 * Lauantai 10.10
 * Lauantai 5.12
 
@@ -31,7 +30,7 @@ Molempia kokeita järjestetään useana eri päivänä. Voit osallistua kokeisii
 
 **TENTTIOHJEITA**
 
-Tenttikysymykset ilmestyvät tälle sivulle lauantaina 15.08.2020 klo 10.00:
+Tenttikysymykset ilmestyvät tälle sivulle lauantaina 03.10.2020 klo 10.00:
 
 <a href="https://exams.mooc.fi/fi">https://exams.mooc.fi/fi</a>
 
@@ -47,20 +46,18 @@ Tenttikysymykset ilmestyvät tälle sivulle lauantaina 15.08.2020 klo 10.00:
 * Kurssin tulokset tulevat kokeen jälkeen sähköpostitse opintopisteohjeiden kera.
 * Pulmatilanteiden varalta kurssin ohjaajat päivystävät kurssin Telegram-kanavalla.
 
-Tenttipohjat voi ladata Netbeansiin valmiiksi jo torstaina tai perjantaina. Tarkemmat ohjeet tulevat tälle sivulle torstaihin mennessä.
-
 Tentin suorittamalla saat opintopisteet ja halutessasi virallisen todistuksen kurssin suorituksesta.
 
 </text-box>
 
 
-### Valmistautuminen 15.08. olevaan tenttiin (tee tämä ennen tenttipäivää!)
+### Valmistautuminen 03.10 tenttiin
 
 *  Valitse NetBeansissa valikko "TMC" ja sieltä kohta "Settings"
 
 *  Varmista että kohdassa organization on valittu organisaatio "Helsingin yliopisto". Jos näin ei ole, vaihda organisaatio "Change"-napista.
 
-*  Vaihda kurssiksi "Verkkotentti 15.08.2020, Ohjelmoinnin jatkokurssi, Java"
+*  Vaihda kurssiksi "Ohjelmoinnin perusteet java tentti 03.10.2020"
 
 *  Paina asetusnäytöstä ok
 
@@ -70,9 +67,9 @@ Valitse OK
 
 TMC ehdottaa tämän jälkeen kolmen tehtäväpohjan lataamista. Tehtäväpohjat ovat seuravat:
 
-* Verkkotentti15082020-Tehtava1 -- kokeen ensimmäistä tehtävää varten
-* Verkkotentti15082020-Tehtava2 -- kokeen toista tehtävää varten
-* Verkkotentti15082020-Tehtava3 -- kokeen kolmatta tehtävää varten
+* Konekoe03102020-Tehtava1 -- kokeen ensimmäistä tehtävää varten
+* Konekoe03102020-Tehtava2 -- kokeen toista tehtävää varten
+* Konekoe03102020-Tehtava3 -- kokeen kolmatta tehtävää varten
 
 Lataa tehtävät.
 
