@@ -18,19 +18,17 @@ Molempia kokeita järjestetään useana eri päivänä. Voit osallistua kokeisii
 
 #### Ohjelmoinnin perusteet (Osat 1-7)
 
-* Lauantai 3.10
 * Lauantai 28.11
 
 #### Ohjelmoinnin jatkokurssi (Osat 8-14)
 
-* Lauantai 10.10
 * Lauantai 5.12
 
 <text-box variant="hint" name="Kurssin kokeesta">
 
 **TENTTIOHJEITA**
 
-Tenttikysymykset ilmestyvät tälle sivulle lauantaina 03.10.2020 klo 10.00:
+Tenttikysymykset ilmestyvät tälle sivulle lauantaina 10.10.2020 klo 10.00:
 
 <a href="https://exams.mooc.fi/fi">https://exams.mooc.fi/fi</a>
 
@@ -51,13 +49,13 @@ Tentin suorittamalla saat opintopisteet ja halutessasi virallisen todistuksen ku
 </text-box>
 
 
-### Valmistautuminen 03.10 tenttiin
+### Valmistautuminen 10.10 tenttiin
 
 *  Valitse NetBeansissa valikko "TMC" ja sieltä kohta "Settings"
 
 *  Varmista että kohdassa organization on valittu organisaatio "Helsingin yliopisto". Jos näin ei ole, vaihda organisaatio "Change"-napista.
 
-*  Vaihda kurssiksi "Ohjelmoinnin perusteet java tentti 03.10.2020"
+*  Vaihda kurssiksi "Ohjelmoinnin jatkokurssi java tentti 10.10.2020"
 
 *  Paina asetusnäytöstä ok
 
@@ -67,9 +65,9 @@ Valitse OK
 
 TMC ehdottaa tämän jälkeen kolmen tehtäväpohjan lataamista. Tehtäväpohjat ovat seuravat:
 
-* Konekoe03102020-Tehtava1 -- kokeen ensimmäistä tehtävää varten
-* Konekoe03102020-Tehtava2 -- kokeen toista tehtävää varten
-* Konekoe03102020-Tehtava3 -- kokeen kolmatta tehtävää varten
+* Verkkotentti10102020-Tehtava1 -- kokeen ensimmäistä tehtävää varten
+* Verkkotentti10102020-Tehtava2 -- kokeen toista tehtävää varten
+* Verkkotentti10102020-Tehtava3 -- kokeen kolmatta tehtävää varten
 
 Lataa tehtävät.
 
