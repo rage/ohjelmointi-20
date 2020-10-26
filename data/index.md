@@ -40,7 +40,7 @@ mahdollista suorittaa vähintään kahden viikon ajan.
 
 Kurssista on kaksi versiota: aikataulutettu versio päättyi 4.5.2020.
 
-Aikatauluton versio kurssista jatkuu vuoden 2020 loppun asti.
+Aikatauluton versio kurssista jatkuu toistaiseksi.
 
 Aikatauluttoman kurssin tehtävät
 julkaistaan aina aikataulutetun kurssin jälkeen. Voit siirtyä
