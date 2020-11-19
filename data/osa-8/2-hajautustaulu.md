@@ -484,10 +484,10 @@ Kirjasto kirjasto = new Kirjasto();
 kirjasto.lisaaKirja(jarkiJaTunteet);
 kirjasto.lisaaKirja(ylpeysJaEnnakkoluulo);
 
-System.out.println(kirjasto.haeKirja("ylpeys ja ennakkoluulo");
+System.out.println(kirjasto.haeKirja("ylpeys ja ennakkoluulo"));
 System.out.println();
 
-System.out.println(kirjasto.haeKirja("YLPEYS JA ENNAKKOLUULO");
+System.out.println(kirjasto.haeKirja("YLPEYS JA ENNAKKOLUULO"));
 System.out.println();
 
 System.out.println(kirjasto.haeKirja("JÄRKI"));
