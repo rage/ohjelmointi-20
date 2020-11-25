@@ -28,7 +28,7 @@ Molempia kokeita järjestetään useana eri päivänä. Voit osallistua kokeisii
 
 **TENTTIOHJEITA**
 
-Tenttikysymykset ilmestyvät tälle sivulle lauantaina 10.10.2020 klo 10.00:
+Tenttikysymykset ilmestyvät tälle sivulle lauantaina 28.11.2020 klo 10.00:
 
 <a href="https://exams.mooc.fi/fi">https://exams.mooc.fi/fi</a>
 
@@ -55,7 +55,7 @@ Tentin suorittamalla saat opintopisteet ja halutessasi virallisen todistuksen ku
 
 *  Varmista että kohdassa organization on valittu organisaatio "Helsingin yliopisto". Jos näin ei ole, vaihda organisaatio "Change"-napista.
 
-*  Vaihda kurssiksi "Ohjelmoinnin jatkokurssi java tentti 10.10.2020"
+*  Vaihda kurssiksi "Ohjelmoinnin jatkokurssi java tentti 28.11.2020"
 
 *  Paina asetusnäytöstä ok
 
@@ -65,9 +65,9 @@ Valitse OK
 
 TMC ehdottaa tämän jälkeen kolmen tehtäväpohjan lataamista. Tehtäväpohjat ovat seuravat:
 
-* Verkkotentti10102020-Tehtava1 -- kokeen ensimmäistä tehtävää varten
-* Verkkotentti10102020-Tehtava2 -- kokeen toista tehtävää varten
-* Verkkotentti10102020-Tehtava3 -- kokeen kolmatta tehtävää varten
+* Verkkotentti28112020-Tehtava1 -- kokeen ensimmäistä tehtävää varten
+* Verkkotentti28112020-Tehtava2 -- kokeen toista tehtävää varten
+* Verkkotentti28112020-Tehtava3 -- kokeen kolmatta tehtävää varten
 
 Lataa tehtävät.
 
