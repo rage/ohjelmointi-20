@@ -19,10 +19,12 @@ Molempia kokeita järjestetään useana eri päivänä. Voit osallistua kokeisii
 #### Ohjelmoinnin perusteet (Osat 1-7)
 
 * Lauantai 28.11
+* Viimeinen tentti perjantaina 15.1.2021
 
 #### Ohjelmoinnin jatkokurssi (Osat 8-14)
 
 * Lauantai 5.12
+* Viimeinen tentti lauantaina 16.1.2021
 
 <text-box variant="hint" name="Kurssin kokeesta">
 
