@@ -49,13 +49,13 @@ Tentin suorittamalla saat opintopisteet ja halutessasi virallisen todistuksen ku
 </text-box>
 
 
-### Valmistautuminen 10.10 tenttiin
+### Valmistautuminen 28.11 tenttiin
 
 *  Valitse NetBeansissa valikko "TMC" ja sieltä kohta "Settings"
 
 *  Varmista että kohdassa organization on valittu organisaatio "Helsingin yliopisto". Jos näin ei ole, vaihda organisaatio "Change"-napista.
 
-*  Vaihda kurssiksi "Ohjelmoinnin jatkokurssi java tentti 28.11.2020"
+*  Vaihda kurssiksi "Ohjelmoinnin perusteet java tentti 28.11.2020"
 
 *  Paina asetusnäytöstä ok
 
