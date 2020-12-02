@@ -30,7 +30,7 @@ Molempia kokeita järjestetään useana eri päivänä. Voit osallistua kokeisii
 
 **TENTTIOHJEITA**
 
-Tenttikysymykset ilmestyvät tälle sivulle lauantaina 28.11.2020 klo 10.00:
+Tenttikysymykset ilmestyvät tälle sivulle lauantaina 5.12.2020 klo 10.00:
 
 <a href="https://exams.mooc.fi/fi">https://exams.mooc.fi/fi</a>
 
@@ -51,13 +51,13 @@ Tentin suorittamalla saat opintopisteet ja halutessasi virallisen todistuksen ku
 </text-box>
 
 
-### Valmistautuminen 28.11 tenttiin
+### Valmistautuminen 5.12 tenttiin
 
 *  Valitse NetBeansissa valikko "TMC" ja sieltä kohta "Settings"
 
 *  Varmista että kohdassa organization on valittu organisaatio "Helsingin yliopisto". Jos näin ei ole, vaihda organisaatio "Change"-napista.
 
-*  Vaihda kurssiksi "Ohjelmoinnin perusteet java tentti 28.11.2020"
+*  Vaihda kurssiksi "Ohjelmoinnin jatkokurssi java tentti 5.12.2020"
 
 *  Paina asetusnäytöstä ok
 
@@ -67,9 +67,9 @@ Valitse OK
 
 TMC ehdottaa tämän jälkeen kolmen tehtäväpohjan lataamista. Tehtäväpohjat ovat seuravat:
 
-* Verkkotentti28112020-Tehtava1 -- kokeen ensimmäistä tehtävää varten
-* Verkkotentti28112020-Tehtava2 -- kokeen toista tehtävää varten
-* Verkkotentti28112020-Tehtava3 -- kokeen kolmatta tehtävää varten
+* Verkkotentti05122020-Tehtava1 -- kokeen ensimmäistä tehtävää varten
+* Verkkotentti05122020-Tehtava2 -- kokeen toista tehtävää varten
+* Verkkotentti05122020-Tehtava3 -- kokeen kolmatta tehtävää varten
 
 Lataa tehtävät.
 
