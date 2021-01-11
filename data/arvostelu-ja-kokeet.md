@@ -30,7 +30,7 @@ Molempia kokeita järjestetään useana eri päivänä. Voit osallistua kokeisii
 
 **TENTTIOHJEITA**
 
-Tenttikysymykset ilmestyvät tälle sivulle lauantaina 5.12.2020 klo 10.00:
+Tenttikysymykset ilmestyvät tenttipäivänä alla olevalle sivulle klo 10:00.
 
 <a href="https://exams.mooc.fi/fi">https://exams.mooc.fi/fi</a>
 
@@ -51,13 +51,13 @@ Tentin suorittamalla saat opintopisteet ja halutessasi virallisen todistuksen ku
 </text-box>
 
 
-### Valmistautuminen 5.12 tenttiin
+### Valmistautuminen 15.1 tenttiin
 
 *  Valitse NetBeansissa valikko "TMC" ja sieltä kohta "Settings"
 
 *  Varmista että kohdassa organization on valittu organisaatio "Helsingin yliopisto". Jos näin ei ole, vaihda organisaatio "Change"-napista.
 
-*  Vaihda kurssiksi "Ohjelmoinnin jatkokurssi java tentti 5.12.2020"
+*  Vaihda kurssiksi "Ohjelmoinnin perusteet java tentti 15.1.2021"
 
 *  Paina asetusnäytöstä ok
 
@@ -67,9 +67,37 @@ Valitse OK
 
 TMC ehdottaa tämän jälkeen kolmen tehtäväpohjan lataamista. Tehtäväpohjat ovat seuravat:
 
-* Verkkotentti05122020-Tehtava1 -- kokeen ensimmäistä tehtävää varten
-* Verkkotentti05122020-Tehtava2 -- kokeen toista tehtävää varten
-* Verkkotentti05122020-Tehtava3 -- kokeen kolmatta tehtävää varten
+* Verkkotentti15012021-Tehtava1 -- kokeen ensimmäistä tehtävää varten
+* Verkkotentti15012021-Tehtava2 -- kokeen toista tehtävää varten
+* Verkkotentti15012021-Tehtava3 -- kokeen kolmatta tehtävää varten
+
+Lataa tehtävät.
+
+Testaa, että tenttipohja toimii: Kirjoita johonkin tehtäväpohjaan rivi koodia, esim
+
+`System.out.println("testi");`
+
+...ja varmista, että pystyt suorittamaan koodin. Jos saat virheen koodin suorituksesta, varmista että sinulla on uusin versio TMCBeansista. <a href="https://t.me/ohjelmointi20">Telegramista</a> voit kysellä lisävinkkejä. **Älä aloita tenttiä ennen kuin ympäristö toimii!!**
+
+### Valmistautuminen 16.1 tenttiin
+
+*  Valitse NetBeansissa valikko "TMC" ja sieltä kohta "Settings"
+
+*  Varmista että kohdassa organization on valittu organisaatio "Helsingin yliopisto". Jos näin ei ole, vaihda organisaatio "Change"-napista.
+
+*  Vaihda kurssiksi "Ohjelmoinnin jatkokurssi java tentti 16.1.2021"
+
+*  Paina asetusnäytöstä ok
+
+NetbBeansin pitäisi tarjota kokeen tehtäväpohjia ladattavaksi
+
+Valitse OK
+
+TMC ehdottaa tämän jälkeen kolmen tehtäväpohjan lataamista. Tehtäväpohjat ovat seuravat:
+
+* Verkkotentti16012021-Tehtava1 -- kokeen ensimmäistä tehtävää varten
+* Verkkotentti16012021-Tehtava2 -- kokeen toista tehtävää varten
+* Verkkotentti16012021-Tehtava3 -- kokeen kolmatta tehtävää varten
 
 Lataa tehtävät.
 
