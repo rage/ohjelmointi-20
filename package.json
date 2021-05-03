@@ -1,7 +1,7 @@
 {
   "name": "ohjelmoinnin-mooc",
   "engines": {
-    "node": "10.x"
+    "node": "14.x"
   },
   "dependencies": {
     "@apollo/react-hooks": "^3.1.3",
@@ -22,7 +22,7 @@
     "code-states-visualizer": "^0.1.1",
     "color": "^3.1.1",
     "commonmark": "^0.29.1",
-    "core-js": "^3.6.4",
+    "core-js": "^2.5.7",
     "fetch-ponyfill": "^6.0.2",
     "focus-visible": "^5.0.2",
     "gatsby": "^2.19.45",
@@ -46,6 +46,7 @@
     "gatsby-source-filesystem": "^2.1.56",
     "gatsby-transformer-remark": "^2.6.59",
     "graphql": "^14.6.0",
+    "graphql-request": "^3.4.0",
     "i18next": "^19.3.3",
     "i18next-browser-languagedetector": "^4.0.2",
     "i18next-xhr-backend": "^3.2.2",

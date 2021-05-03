@@ -15,10 +15,10 @@ export async function fetchQuizzesProgress() {
     id = "5c89b9b6-b8a6-4079-8c4f-a4bbc80b66a4"
   }
   const response = await axios.get(
-    `https://quizzes.mooc.fi/api/v1/courses/${id}/users/current/progress`,
+    `https://quizzes.mooc.fi/api/v2/general/course/${id}/progress`,
     { headers: { Authorization: `Bearer ${accessToken()}` } },
   )
-  return response.data?.points_by_group
+  return response.data
 }
 
 export async function fetchQuizNames() {
