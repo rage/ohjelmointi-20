@@ -16,7 +16,7 @@
     "@rstacruz/gatsby-remark-component": "^2.0.0",
     "ajv": "^6.12.0",
     "apollo-boost": "^0.4.7",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-plugin-styled-components": "^1.10.7",
     "clsx": "^1.1.0",
     "code-states-visualizer": "^0.1.1",
