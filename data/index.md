@@ -7,6 +7,19 @@ banner: true
 sidebar_priority: 5000
 ---
 
+
+<text-box variant="hint" name="Huomio">
+
+<notice>Huomaa, että tämä on vanha kurssisivu. Kurssilla ei järjestetä enää kokeita ja siten tästä kurssista ei voi saada opintopisteitä.</notice>
+
+</br>
+
+<b>Vuoden 2021 Ohjelmoinnin MOOCin opetuskielenä on Python. Löydät kurssimateriaalin halutessasi täältä: [https://ohjelmointi-21.mooc.fi/](https://ohjelmointi-21.mooc.fi/)</b>
+
+</br>
+
+</text-box>
+
 Ohjelmoinnin MOOC on kaikille avoin ja ilmainen ohjelmoinnin perusteet
 opettava verkkokurssi. Kurssilla perehdytään nykyaikaisen ohjelmoinnin
 perusideoihin sekä ohjelmoinnissa käytettävien työvälineiden lisäksi
