@@ -54,7 +54,7 @@
     "jquery": "^3.4.1",
     "jss": "^10.1.1",
     "likert-react": "0.0.0-beta6",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moocfi-quizzes": "^0.9.9",
     "pdf-slideshow": "^0.1.4",
     "prismjs": "^1.19.0",
