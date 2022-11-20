@@ -6,9 +6,9 @@ hidden: false
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
 
-- Tiedät miten miten muuttuvankokoinen geneerinen lista toteutetaan.
+- Tiedät miten muuttuvankokoinen geneerinen lista toteutetaan.
 - Tunnet erään mahdollisen tavan Javan ArrayListin kaltaisen luokan toteutukselle.
-- Tiedät miten miten hajautustaulu toteutetaan.
+- Tiedät miten hajautustaulu toteutetaan.
 - Tunnet erään mahdollisen tavan Javan HashMapin kaltaisen luokan toteutukselle.
 
 </text-box>
