@@ -10,8 +10,6 @@ import {
   CardContent,
 } from "@material-ui/core"
 
-import { OutboundLink } from "gatsby-plugin-google-analytics"
-
 import Loading from "../Loading"
 
 import { updateUserDetails, userDetails } from "../../services/moocfi"
@@ -68,7 +66,7 @@ class CourseOptionsEditor extends React.Component {
     )
   }
 
-  onClick = async e => {
+  onClick = async (e) => {
     e.preventDefault()
     this.setState({ submitting: true })
     let extraFields = {
@@ -109,7 +107,7 @@ class CourseOptionsEditor extends React.Component {
     focused: null,
   }
 
-  handleInput = e => {
+  handleInput = (e) => {
     const name = e.target.name
     const value = e.target.value
     this.setState({ [name]: value }, () => {
@@ -117,7 +115,7 @@ class CourseOptionsEditor extends React.Component {
     })
   }
 
-  handleCheckboxInput = e => {
+  handleCheckboxInput = (e) => {
     const name = e.target.name
     const value = e.target.checked
     this.setState({ [name]: value }, () => {
@@ -125,7 +123,7 @@ class CourseOptionsEditor extends React.Component {
     })
   }
 
-  handleFocus = e => {
+  handleFocus = (e) => {
     const name = e.target.name
     this.setState({ focused: name })
   }
@@ -135,12 +133,12 @@ class CourseOptionsEditor extends React.Component {
   }
 
   validate = () => {
-    this.setState(prev => ({
+    this.setState((prev) => ({
       error: prev.research === undefined,
     }))
   }
 
-  setSelectedVariant = value => {
+  setSelectedVariant = (value) => {
     this.setState({ currentCourseVariant: value })
   }
 
@@ -325,14 +323,14 @@ class CourseOptionsEditor extends React.Component {
 
           <p>
             {this.props.t("research5")}
-            <OutboundLink
+            <a
               href="https://dl.acm.org/citation.cfm?id=2858798"
               target="_blank"
               rel="noopener noreferrer"
             >
               Educational Data Mining and Learning Analytics in Programming:
               Literature Review and Case Studies
-            </OutboundLink>
+            </a>
             .
           </p>
 

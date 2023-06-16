@@ -77,7 +77,7 @@ export default class CourseContentTemplate extends React.Component {
   render() {
     const { data } = this.props
     const { frontmatter, htmlAst } = data.page
-    const allPages = data.allPages.edges.map(o => o.node?.frontmatter)
+    const allPages = data.allPages.edges.map((o) => o.node?.frontmatter)
     const partials = getNamedPartials()
     const renderAst = new rehypeReact({
       createElement: React.createElement,
@@ -127,7 +127,7 @@ export default class CourseContentTemplate extends React.Component {
 }
 
 export const pageQuery = graphql`
-  query($path: String!) {
+  query ($path: String!) {
     page: markdownRemark(frontmatter: { path: { eq: $path } }) {
       htmlAst
       html

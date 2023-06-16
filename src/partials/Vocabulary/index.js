@@ -21,14 +21,14 @@ class Vocabulary extends React.Component {
   async componentDidMount() {
     const value = this.context
     const words = value.all
-      .map(page => page.words)
+      .map((page) => page.words)
       .flat()
       .sort((a, b) => a.name.localeCompare(b.name))
 
     let uniqueWords = []
     words.forEach((word, i) => {
-      if (uniqueWords.filter(w => w.name === word.name).length > 0) {
-        const index = uniqueWords.findIndex(w => w.name === word.name)
+      if (uniqueWords.filter((w) => w.name === word.name).length > 0) {
+        const index = uniqueWords.findIndex((w) => w.name === word.name)
         if (word.description != null) {
           if (uniqueWords[index].description == null) {
             uniqueWords[index].description = word.description
@@ -47,7 +47,7 @@ class Vocabulary extends React.Component {
         if (Array.isArray(uniqueWords[index].parentPagePath)) {
           if (
             !uniqueWords[index].parentPagePath.filter(
-              p => p === word.parentPagePath,
+              (p) => p === word.parentPagePath,
             )
           ) {
             uniqueWords[index].parentPagePath = [
